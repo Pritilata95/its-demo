@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
+title = "Home | IT Security Group"
 theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
@@ -53,7 +53,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 # Banner Section
 [params.banner]
 enable  = true
-bgImage = "images/slider.jpg"
+bgImage = "images/securityslider.jpg"
 heading = "Welcome to IT Security Group."
 description = "Here goes a short description"
 # button
