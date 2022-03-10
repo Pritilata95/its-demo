@@ -1,0 +1,42 @@
+{{ define "main" }} 
+
+{{ partial "page-title-course" . }}
+
+{{ if .Site.Data.seminar.enable }}
+
+{{ "<!-- Service Section Start -->" | safeHTML }}
+<section id="service-page" class="pages service-page">
+	<div class="container"> 
+		<div class="section-heading">
+			{{ with .Site.Data.seminar.title }}<h2 class="subtitle text-center wow fadeInUp animated"
+			data-wow-duration="500ms" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
+ 		</div> 
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="block">
+					<div class="row service-parts">
+						{{ range .Site.Data.bachelor.courseitem }}  
+						<div class="courses">
+							<h4>{{ .coursename }}</h4> 						
+							<h5> Content </h5>
+							<p >{{ .description }}</p>
+							<h5> Structure </h5>
+							<p >{{ .coursestructure }}</p>
+							<h5> Evaluation </h5>
+							<p >{{ .evaluation }}</p>
+						</div>
+						{{ end }}
+					</div>
+				</div>
+			</div>
+		</div> 
+	</div>
+</section>
+{{ "<!-- Service Section End -->" | safeHTML }}
+{{ end }} 
+
+<!--{{ partial "clients.html" . }}
+
+{{ partial "cta.html" . }}-->
+
+{{ end }}

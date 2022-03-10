@@ -6,16 +6,21 @@
 {{ "<!-- Service Section Start -->" | safeHTML }}
 <section id="service-page" class="pages service-page">
 	<div class="container">
-		<div class="row">
+		<!--div class="row">  
 			<div class="col-lg-6">
-				{{ with .Site.Data.forstudents.title }}<h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s"
-					data-wow-duration="500ms">{{ . }}</h2>{{ end }}
+				{{ with .Site.Data.forstudents.title }}<h2  class="subtitle wow fadeInUp animated" data-wow-delay=".3s"
+					data-wow-duration="500ms">{{ . }}</h2>{{ end }} 
 				{{ with .Site.Data.forstudents.subtitle }}<p class="subtitle-des wow fadeInUp animated" data-wow-delay=".5s"
 					data-wow-duration="500ms">{{ . }}</p>{{ end }}
 			</div>
+		</div--> 
+		<div class="section-heading">
+			{{ with .Site.Data.forstudents.title }}<h2 class="subtitle text-center wow fadeInUp animated"
+			data-wow-duration="500ms" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
+			{{ with .Site.Data.forstudents.subtitle }}<p class="wow fadeInDown" data-wow-delay=".5s">{{ . }}</p>{{ end }}
 		</div>
 		<div class="row">
-			<div class="col-lg-6 order-2 order-lg-1">
+			<!--div class="col-lg-6 order-2 order-lg-1">
 				<div class="block">
 					<div class="row service-parts">
 						{{ range .Site.Data.forstudents.serviceItem }}
@@ -29,22 +34,48 @@
 						{{ end }}
 					</div>
 				</div>
-			</div>
-			{{ with .Site.Data.service.image }}
+			</div-->
+			<!--div class="row"-->
+				<div class="col-lg-12">
+					<div class="block">
+						<div class="row service-parts">
+							{{ range .Site.Data.forstudents.courseItem }}
+							<div class="col-md-3 col-sm-6"> 
+							<figure class="block wow fadeInUp animated " data-wow-duration="400ms" data-wow-delay="600ms">  	 
+								{{ with .icon }}<i class="{{ . }}"></i>{{ end }}								
+								<figcaption>
+									<h4 style="color: #02bdd5;"> 
+											<a href="/forstudents/{{ .url}}">{{ .title }} 
+									</h4>
+									<p>
+										{{ .description }}
+									</p>
+								</figcaption>
+							</figure>
+							</div>
+							{{ end }}
+						</div>
+					</div>
+				</div>
+			<!--/div--> 
+			<!--{{ with .Site.Data.service.image }}
 			<div class="col-lg-6 order-1 order-lg-2">
 				<div class="block">
+					<p>HERE HERE</p>
 					<img class="img-fluid" src="{{ . | absURL }}" alt="about-image">
 				</div>
 			</div>
-			{{ end }}
+			{{ end }}-->
 		</div>
 	</div>
 </section>
 {{ "<!-- Service Section End -->" | safeHTML }}
 {{ end }}
 
-{{ partial "clients.html" . }}
+{{ partial "portfolio.html" . }}
 
-{{ partial "cta.html" . }}
+<!--{{ partial "clients.html" . }}
+
+{{ partial "cta.html" . }}-->
 
 {{ end }}

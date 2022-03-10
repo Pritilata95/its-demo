@@ -1,24 +1,26 @@
 enable  : true
-title   : Subjects we offer
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis porro recusandae non quibusdam iure adipisci.
+title   : Courses we offer
+subtitle: Subtitle
 image   : images/team.jpg
-serviceItem :
+courseItem :
   - icon  : ion-ios-paper-outline
-    title : BRANDING
+    title : Bachelor Courses
+    url:    bachelor
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
-
-  - icon  : ion-ios-pint-outline
-    title : DESIGN
+       Here you can find the bachelor courses we offer for summer and winter semesters.  
+  - icon  : ion-ios-paper-outline
+    title : Master Courses
+    url:    master
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+       Here you can find the master courses we offer for summer and winter semesters.
+  - icon  : ion-ios-paper-outline
+    title : Seminars 
+    url:    seminar
+    description: >
+       Here you can find the seminars we offer for summer and winter semesters.
 
   - icon  : ion-ios-paper-outline
-    title : DEVELOPMENT
+    title : Theses
+    url:    theses
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
-
-  - icon  : ion-ios-paper-outline
-    title : THEMEING
-    description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+       Here you can find the theses tpoics we offer for bachelor and masters students.

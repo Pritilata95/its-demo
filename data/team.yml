@@ -2,7 +2,7 @@ enable  : true
 title   : MEET THE TEAM
 members  :
   - name  : Prof. Dr. Patricia Arias Cabarcos
-    image : images/team/team-2.jpg
+    image : images/team/team.jpg
     designation : Team Lead
     description :  Here goes short description.
     #github  : https://www.github.com
@@ -15,30 +15,23 @@ members  :
     #googleplus  : https://plus.google.com/themefisher   
 
   - name  : Lydia Kreiss
-    image : images/team/team-2.jpg
+    image : images/team/team.jpg
     designation : Team Assistant
     description :  Here goes short description.
     upb     : https://www.uni-paderborn.de/en/person/36679
 
   - name  : Matin Fallahi
-    image : images/team/team-1.jpg
+    image : images/team/team.jpg
     designation : Researcher - PhD Student
     description :  Here goes short description.
     #scholar : https://scholar.google.com/citations?user=vGhH7RQAAAAJ
     upb     : https://ps.tm.kit.edu/english/21_318.php
 
   - name  : Pritilata Saha
-    image : images/team/team-2.jpg
+    image : images/team/team.jpg
     designation : Student Researcher 
     description :  Here goes short description.
     #github  : https://www.github.com
     scholar : https://scholar.google.com/citations?user=7CWGYEkAAAAJ
     upb     : https://www.uni-paderborn.de/en/person/87595
-
-  - name  : Pritilata Saha
-    image : images/team/team-2.jpg
-    designation : Student Researcher 
-    description :  Here goes short description.
-    #github  : https://www.github.com
-    scholar : https://scholar.google.com/citations?user=7CWGYEkAAAAJ
-    upb     : https://www.uni-paderborn.de/en/person/87595
+ 

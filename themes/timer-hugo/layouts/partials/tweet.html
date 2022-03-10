@@ -1,0 +1,24 @@
+{{ if .Site.Data.tweet.enable }}
+{{ "<!-- About Section Start -->" | safeHTML }}
+<section id="feature">
+	<div class="container">
+        <div class="section-heading">
+			{{ with .Site.Data.tweet.title }}<h1 class="title wow fadeInDown" data-wow-delay=".3s">{{ . }}</h1>{{ end }}
+			 
+		</div>
+		<div class="row">
+			<div class="col-sm-4"> 
+				<blockquote class="twitter-tweet" data-dnt="true"><p lang="de" dir="ltr">Können Entwickler*innen Fehler in fremden Codes erkennen? Diese Frage untersuchen Wissenschaftler*innen der <a href="https://twitter.com/unipb?ref_src=twsrc%5Etfw">@unipb</a>, <a href="https://twitter.com/CompScience_UPB?ref_src=twsrc%5Etfw">@CompScience_UPB</a>, <a href="https://twitter.com/UniOldenburg?ref_src=twsrc%5Etfw">@UniOldenburg</a> und <a href="https://twitter.com/TUDarmstadt?ref_src=twsrc%5Etfw">@TUDarmstadt</a>. Sie sind Entwickler*in oder haben Programmiererfahrung, dann helfen Sie mit: <a href="https://t.co/Kp2aeFD9cZ">https://t.co/Kp2aeFD9cZ</a></p>&mdash; Institut für Informatik, UPB (@CompScience_UPB) <a href="https://twitter.com/CompScience_UPB/status/1489669104239841282?ref_src=twsrc%5Etfw">February 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+			</div>
+			<div class="col-sm-4">
+				<blockquote class="twitter-tweet" data-dnt="true"><p lang="de" dir="ltr">Kommende Woche wird die nächste Folge des All Day Research Podcasts aufgezeichnet. Falls ihr Fragen an Dr. Ulf-Peter Schroeder und den Sonderforschungsbereich 901 habt, teilt sie uns gerne mit!</p>&mdash; Institut für Informatik, UPB (@CompScience_UPB) <a href="https://twitter.com/CompScience_UPB/status/1446823891654090757?ref_src=twsrc%5Etfw">October 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+			</div>
+
+			<div class="col-sm-4">
+				<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">We look forward to working with you! <a href="https://t.co/oTpWWjwKiv">https://t.co/oTpWWjwKiv</a></p>&mdash; Institut für Informatik, UPB (@CompScience_UPB) <a href="https://twitter.com/CompScience_UPB/status/1441353399971168257?ref_src=twsrc%5Etfw">September 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+			</div>
+		</div>
+	</div>
+</section>
+{{ "<!-- About Section End -->" | safeHTML }}
+{{ end }}
