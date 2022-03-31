@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ if .Site.Data.publications.enable }}
+{{ "<!-- Service Section Start -->" | safeHTML }}
+<section id="service-page" class="pages service-page">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				{{ with .Site.Data.publications.title }}<h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s"
+					data-wow-duration="500ms">{{ . }}</h2>{{ end }}
+				{{ with .Site.Data.publications.subtitle }}<p class="subtitle-des wow fadeInUp animated" data-wow-delay=".5s"
+					data-wow-duration="500ms">{{ . }}</p>{{ end }}
+			</div>
+		</div>
+        <div class="row">
+			<div class="col-lg-12">
+                <h4>Journal Articles</h4>
+                {{ range .Site.Data.journals }}  
+					<h4 style="color: #02bdd5;">  {{ .title }} </h4>
+                    <p> {{ .citation.short}}
+                    <br>
+                    DOI: <a href="https://doi.org/{{ .doi }}">{{ .doi }}</a> || 
+                    <a href="https://ris.uni-paderborn.de/record/{{ ._id}}">Open in RIS</a>
+                    </p>                                    
+				{{ end }}
+                <br>
+                <h4>Conference Papers</h4>
+                {{ range .Site.Data.conferences }}  
+					<h4 style="color: #02bdd5;">  {{ .title }} </h4>
+                    <p> {{ .citation.short}}
+                    <br>
+                    DOI: <a href="https://doi.org/{{ .doi }}">{{ .doi }}</a> || 
+                    <a href="https://ris.uni-paderborn.de/record/{{ ._id}}">Open in RIS</a>
+                    </p>                                    
+				{{ end }}
+                <!--script src="https://ris.uni-paderborn.de/embed?q=92804&cql=person%3D92804&lang=en&fmt=js"></script--> 
+                <!--script type="text/javascript" charset="UTF-8" src="https://ris.uni-paderborn.de/embed?q=92804&cql=person%3D92804&cql=person%3D92804&cql=person%3D92804&cql=person%3D92804&cql=type%3D%22journal_article%22&cql=person%3D92804&sort=year.desc&lang=en&fmt=js"></script-->
+                <!--script src="https://bibbase.org/show?bib=https://dblp.org/pid/13/8970.bib&jsonp=1"></script--> 
+			</div>
+		</div> 
+	</div>
+</section> 
+{{ "<!-- Service Section End -->" | safeHTML }}
+{{ end }}
+
+{{ end }}
