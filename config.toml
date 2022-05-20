@@ -24,14 +24,19 @@ weight  = 3
 #weight  = 1
 #parent  = "Service"
 
+#[[menu.main]]
+#name    = "News"
+#url     = "blog"
+#weight  = 4
+[[menu.main]]
+name    = "Contact Us"
+url     = "contactus"
+weight  = 6
 [[menu.main]]
 name    = "Publications"
 url     = "publications"
 weight  = 4
-[[menu.main]]
-name    = "Page5"
-url     = "contact"
-weight  = 5 
+
 
 # Site Params
 [params]

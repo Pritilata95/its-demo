@@ -1,0 +1,82 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ if .Site.Data.contactus.enable }}
+{{ "<!-- Service Section Start -->" | safeHTML }}
+<section id="service-page" class="pages service-page">
+  <div class="container">
+		<div>
+			{{ with .Site.Data.contactus.title }}
+			<h2 style="text-align: left;" class= "subtitle text-left wow fadeInUp animated"
+			data-wow-duration="500ms">{{ . }}</h2>
+			<br>
+			{{ end }}
+ 		</div>
+		<div class="row"> 
+				<div class="block">
+					<div class="row service-parts">
+						<div class="col-lg-6">
+							{{ range .Site.Data.contactus.contactitem }}  
+							<div class="col-lg-12"> 
+								<h4>{{ .name }}</h4>
+								<div class="row">	
+									<div class="col-lg-3"><h5>Position</h5></div>					
+									<div class="col-lg-9">{{ .position }}</div> 
+								</div>
+								<div class="row">
+									<div class="col-lg-3"><h5>Phone</h5></div>					
+									<div class="col-lg-9">{{ .Phone }}</div> 
+								</div>
+								<div class="row">
+									<div class="col-lg-3"><h5>E-mail</h5></div>					
+									<div class="col-lg-9">{{ .Email }}</div> 
+								</div>
+								<div class="row">
+									<div class="col-lg-3"><h5>Office</h5></div>					
+									<div class="col-lg-9">{{ .Office }}</div> 
+								</div>
+								<br> 
+							</div>
+							{{ end }}						
+					    </div>
+						<div class="col-lg-6">
+							 <h4> Find Us Here</h4> 
+							<div class="map">
+								<iframe
+								  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2471.0701210686284!2d8.733103026463485!3d51.73175278845485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ba4b7c5ce5ced5%3A0x420b0b3bc120a0b4!2sPaderborn%20University%2C%20Heinz%20Nixdorf%20Institute%20(HNI)!5e0!3m2!1sen!2sde!4v1653037140515!5m2!1sen!2sde"
+								  width="100%" height="325" frameborder="0" style="border:0" allowfullscreen>
+								</iframe>
+							</div> 
+						</div>
+						<div class="col-lg-12"> 
+							<div class="col-lg-12">
+							<h4>HITS Research Group Social Media</h4> 
+							<div class="row">	
+								<div class="col-lg-3"><h5>Facebook</h5></div>					
+								<div class="col-lg-9"><a href="">facebook.com/IT Security</a></div>  
+							</div>
+							<div class="row">
+								<div class="col-lg-3"><h5>Twitter</h5></div>					
+								<div class="col-lg-9"><a href="https://twitter.com/patriAriasC">@patriAriasC</a></div> 
+							</div>
+							<div class="row">
+								<div class="col-lg-3"><h5>GitHub</h5></div>					
+								<div class="col-lg-9"><a href="">Hits Research</a></div> 
+							</div>
+							<div class="row">
+								<div class="col-lg-3"><h5>Youtube</h5></div>					
+								<div class="col-lg-9"><a href="">youtube.com/IT Security</a></div> 
+							</div>
+							<br>
+							</div>
+						</div> 
+					</div>
+				</div> 
+		</div> 
+  </div>
+</section>
+{{ "<!-- Service Section End -->" | safeHTML }}
+{{ end }} 
+
+{{ end }}

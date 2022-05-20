@@ -1,0 +1,17 @@
+enable  : true
+title   : Contact Information
+contactitem : 
+  - name: Prof. Dr. Patricia Arias Cabarcos
+    position: Head of IT Security
+    Phone: +49 5251 60-6688
+    Email: pac(at)mail.upb(dot)de
+    Office: F2.311
+  - name: Lydia Kreiss
+    position: Team Assiatant
+    Phone: +49 5251 60-6665
+    Email: lydia.kreiss(at)upb(dot)de
+    Office: F 2.308
+
+
+
+
