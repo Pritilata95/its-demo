@@ -1,0 +1,1258 @@
+---
+_id: '28463'
+author:
+- first_name: Simon
+  full_name: Hanisch, Simon
+  last_name: Hanisch
+- first_name: Patricia
+  full_name: Arias Cabarcos, Patricia
+  id: '92804'
+  last_name: Arias Cabarcos
+- first_name: Javier
+  full_name: Parra-Arnau, Javier
+  last_name: Parra-Arnau
+- first_name: Thorsten
+  full_name: Strufe, Thorsten
+  last_name: Strufe
+citation:
+  ama: 'Hanisch S, Arias Cabarcos P, Parra-Arnau J, Strufe T. Privacy-Protecting Techniques
+    for Behavioral Data: A Survey. <i>CoRR</i>. 2021;abs/2109.04120.'
+  apa: 'Hanisch, S., Arias Cabarcos, P., Parra-Arnau, J., &#38; Strufe, T. (2021).
+    Privacy-Protecting Techniques for Behavioral Data: A Survey. <i>CoRR</i>, <i>abs/2109.04120</i>.'
+  bibtex: '@article{Hanisch_Arias Cabarcos_Parra-Arnau_Strufe_2021, title={Privacy-Protecting
+    Techniques for Behavioral Data: A Survey}, volume={abs/2109.04120}, journal={CoRR},
+    author={Hanisch, Simon and Arias Cabarcos, Patricia and Parra-Arnau, Javier and
+    Strufe, Thorsten}, year={2021} }'
+  chicago: 'Hanisch, Simon, Patricia Arias Cabarcos, Javier Parra-Arnau, and Thorsten
+    Strufe. “Privacy-Protecting Techniques for Behavioral Data: A Survey.” <i>CoRR</i>
+    abs/2109.04120 (2021).'
+  ieee: 'S. Hanisch, P. Arias Cabarcos, J. Parra-Arnau, and T. Strufe, “Privacy-Protecting
+    Techniques for Behavioral Data: A Survey,” <i>CoRR</i>, vol. abs/2109.04120, 2021.'
+  mla: 'Hanisch, Simon, et al. “Privacy-Protecting Techniques for Behavioral Data:
+    A Survey.” <i>CoRR</i>, vol. abs/2109.04120, 2021.'
+  short: S. Hanisch, P. Arias Cabarcos, J. Parra-Arnau, T. Strufe, CoRR abs/2109.04120
+    (2021).
+date_created: 2021-12-08T19:13:24Z
+date_updated: 2022-01-27T17:02:27Z
+department:
+- _id: '679'
+extern: '1'
+language:
+- iso: eng
+publication: CoRR
+status: public
+title: 'Privacy-Protecting Techniques for Behavioral Data: A Survey'
+type: journal_article
+user_id: '92804'
+volume: abs/2109.04120
+year: '2021'
+...
+---
+_id: '28464'
+author:
+- first_name: Mónica
+  full_name: Aguilar'Igartua, Mónica
+  last_name: Aguilar'Igartua
+- first_name: Florina
+  full_name: Almenárez-Mendoza, Florina
+  last_name: Almenárez-Mendoza
+- first_name: Rebeca
+  full_name: P. Díaz Redondo, Rebeca
+  last_name: P. Díaz Redondo
+- first_name: Manuela
+  full_name: I. Martín'Vicente, Manuela
+  last_name: I. Martín'Vicente
+- first_name: Jordi
+  full_name: Forné, Jordi
+  last_name: Forné
+- first_name: Celeste
+  full_name: Campo, Celeste
+  last_name: Campo
+- first_name: Ana
+  full_name: Fernández Vilas, Ana
+  last_name: Fernández Vilas
+- first_name: Luis
+  full_name: J. de la Cruz Llopis, Luis
+  last_name: J. de la Cruz Llopis
+- first_name: Carlos
+  full_name: García-Rubio, Carlos
+  last_name: García-Rubio
+- first_name: Andrés
+  full_name: Marín-López, Andrés
+  last_name: Marín-López
+- first_name: Ahmad
+  full_name: Mohamad Mezher, Ahmad
+  last_name: Mohamad Mezher
+- first_name: Daniel
+  full_name: Díaz Sánchez, Daniel
+  last_name: Díaz Sánchez
+- first_name: Héctor
+  full_name: Cerezo-Costas, Héctor
+  last_name: Cerezo-Costas
+- first_name: David
+  full_name: Rebollo-Monedero, David
+  last_name: Rebollo-Monedero
+- first_name: Patricia
+  full_name: Arias Cabarcos, Patricia
+  id: '92804'
+  last_name: Arias Cabarcos
+- first_name: Francisco
+  full_name: Rico-Novella, Francisco
+  last_name: Rico-Novella
+citation:
+  ama: 'Aguilar’Igartua M, Almenárez-Mendoza F, P. Díaz Redondo R, et al. INRISCO:
+    INcident monitoRing in Smart COmmunities. <i>{IEEE} Access</i>. 2020;8:72435-72460.
+    doi:<a href="https://doi.org/10.1109/ACCESS.2020.2987483">10.1109/ACCESS.2020.2987483</a>'
+  apa: 'Aguilar’Igartua, M., Almenárez-Mendoza, F., P. Díaz Redondo, R., I. Martín’Vicente,
+    M., Forné, J., Campo, C., Fernández Vilas, A., J. de la Cruz Llopis, L., García-Rubio,
+    C., Marín-López, A., Mohamad Mezher, A., Díaz Sánchez, D., Cerezo-Costas, H.,
+    Rebollo-Monedero, D., Arias Cabarcos, P., &#38; Rico-Novella, F. (2020). INRISCO:
+    INcident monitoRing in Smart COmmunities. <i>{IEEE} Access</i>, <i>8</i>, 72435–72460.
+    <a href="https://doi.org/10.1109/ACCESS.2020.2987483">https://doi.org/10.1109/ACCESS.2020.2987483</a>'
+  bibtex: '@article{Aguilar’Igartua_Almenárez-Mendoza_P. Díaz Redondo_I. Martín’Vicente_Forné_Campo_Fernández
+    Vilas_J. de la Cruz Llopis_García-Rubio_Marín-López_et al._2020, title={INRISCO:
+    INcident monitoRing in Smart COmmunities}, volume={8}, DOI={<a href="https://doi.org/10.1109/ACCESS.2020.2987483">10.1109/ACCESS.2020.2987483</a>},
+    journal={{IEEE} Access}, author={Aguilar’Igartua, Mónica and Almenárez-Mendoza,
+    Florina and P. Díaz Redondo, Rebeca and I. Martín’Vicente, Manuela and Forné,
+    Jordi and Campo, Celeste and Fernández Vilas, Ana and J. de la Cruz Llopis, Luis
+    and García-Rubio, Carlos and Marín-López, Andrés and et al.}, year={2020}, pages={72435–72460}
+    }'
+  chicago: 'Aguilar’Igartua, Mónica, Florina Almenárez-Mendoza, Rebeca P. Díaz Redondo,
+    Manuela I. Martín’Vicente, Jordi Forné, Celeste Campo, Ana Fernández Vilas, et
+    al. “INRISCO: INcident MonitoRing in Smart COmmunities.” <i>{IEEE} Access</i>
+    8 (2020): 72435–60. <a href="https://doi.org/10.1109/ACCESS.2020.2987483">https://doi.org/10.1109/ACCESS.2020.2987483</a>.'
+  ieee: 'M. Aguilar’Igartua <i>et al.</i>, “INRISCO: INcident monitoRing in Smart
+    COmmunities,” <i>{IEEE} Access</i>, vol. 8, pp. 72435–72460, 2020, doi: <a href="https://doi.org/10.1109/ACCESS.2020.2987483">10.1109/ACCESS.2020.2987483</a>.'
+  mla: 'Aguilar’Igartua, Mónica, et al. “INRISCO: INcident MonitoRing in Smart COmmunities.”
+    <i>{IEEE} Access</i>, vol. 8, 2020, pp. 72435–60, doi:<a href="https://doi.org/10.1109/ACCESS.2020.2987483">10.1109/ACCESS.2020.2987483</a>.'
+  short: M. Aguilar’Igartua, F. Almenárez-Mendoza, R. P. Díaz Redondo, M. I. Martín’Vicente,
+    J. Forné, C. Campo, A. Fernández Vilas, L. J. de la Cruz Llopis, C. García-Rubio,
+    A. Marín-López, A. Mohamad Mezher, D. Díaz Sánchez, H. Cerezo-Costas, D. Rebollo-Monedero,
+    P. Arias Cabarcos, F. Rico-Novella, {IEEE} Access 8 (2020) 72435–72460.
+date_created: 2021-12-08T19:13:25Z
+date_updated: 2022-01-27T16:54:19Z
+doi: 10.1109/ACCESS.2020.2987483
+extern: '1'
+intvolume: '         8'
+language:
+- iso: eng
+page: 72435-72460
+publication: '{IEEE} Access'
+status: public
+title: 'INRISCO: INcident monitoRing in Smart COmmunities'
+type: journal_article
+user_id: '92804'
+volume: 8
+year: '2020'
+...
+---
+_id: '28466'
+author:
+- first_name: Patricia
+  full_name: Arias Cabarcos, Patricia
+  id: '92804'
+  last_name: Arias Cabarcos
+- first_name: Christian
+  full_name: Krupitzer, Christian
+  last_name: Krupitzer
+- first_name: Christian
+  full_name: Becker, Christian
+  last_name: Becker
+citation:
+  ama: Arias Cabarcos P, Krupitzer C, Becker C. A Survey on Adaptive Authentication.
+    <i>{ACM} Comput Surv</i>. 2019;52(4):80:1-80:30. doi:<a href="https://doi.org/10.1145/3336117">10.1145/3336117</a>
+  apa: Arias Cabarcos, P., Krupitzer, C., &#38; Becker, C. (2019). A Survey on Adaptive
+    Authentication. <i>{ACM} Comput. Surv.</i>, <i>52</i>(4), 80:1-80:30. <a href="https://doi.org/10.1145/3336117">https://doi.org/10.1145/3336117</a>
+  bibtex: '@article{Arias Cabarcos_Krupitzer_Becker_2019, title={A Survey on Adaptive
+    Authentication}, volume={52}, DOI={<a href="https://doi.org/10.1145/3336117">10.1145/3336117</a>},
+    number={4}, journal={{ACM} Comput. Surv.}, author={Arias Cabarcos, Patricia and
+    Krupitzer, Christian and Becker, Christian}, year={2019}, pages={80:1-80:30} }'
+  chicago: 'Arias Cabarcos, Patricia, Christian Krupitzer, and Christian Becker. “A
+    Survey on Adaptive Authentication.” <i>{ACM} Comput. Surv.</i> 52, no. 4 (2019):
+    80:1-80:30. <a href="https://doi.org/10.1145/3336117">https://doi.org/10.1145/3336117</a>.'
+  ieee: 'P. Arias Cabarcos, C. Krupitzer, and C. Becker, “A Survey on Adaptive Authentication,”
+    <i>{ACM} Comput. Surv.</i>, vol. 52, no. 4, p. 80:1-80:30, 2019, doi: <a href="https://doi.org/10.1145/3336117">10.1145/3336117</a>.'
+  mla: Arias Cabarcos, Patricia, et al. “A Survey on Adaptive Authentication.” <i>{ACM}
+    Comput. Surv.</i>, vol. 52, no. 4, 2019, p. 80:1-80:30, doi:<a href="https://doi.org/10.1145/3336117">10.1145/3336117</a>.
+  short: P. Arias Cabarcos, C. Krupitzer, C. Becker, {ACM} Comput. Surv. 52 (2019)
+    80:1-80:30.
+date_created: 2021-12-08T19:13:28Z
+date_updated: 2022-01-17T16:04:29Z
+doi: 10.1145/3336117
+extern: '1'
+intvolume: '        52'
+issue: '4'
+language:
+- iso: eng
+page: 80:1-80:30
+publication: '{ACM} Comput. Surv.'
+status: public
+title: A Survey on Adaptive Authentication
+type: journal_article
+user_id: '92804'
+volume: 52
+year: '2019'
+...
+---
+_id: '28465'
+author:
+- first_name: Daniel
+  full_name: Díaz Sánchez, Daniel
+  last_name: Díaz Sánchez
+- first_name: Andrés
+  full_name: Marín López, Andrés
+  last_name: Marín López
+- first_name: Florina
+  full_name: Almenárez Mendoza, Florina
+  last_name: Almenárez Mendoza
+- first_name: Patricia
+  full_name: Arias Cabarcos, Patricia
+  id: '92804'
+  last_name: Arias Cabarcos
+- first_name: R.
+  full_name: Simon Sherratt, R.
+  last_name: Simon Sherratt
+citation:
+  ama: Díaz Sánchez D, Marín López A, Almenárez Mendoza F, Arias Cabarcos P, Simon
+    Sherratt R. TLS/PKI Challenges and Certificate Pinning Techniques for IoT and
+    M2M Secure Communications. <i>{IEEE} Commun Surv Tutorials</i>. 2019;21(4):3502-3531.
+    doi:<a href="https://doi.org/10.1109/COMST.2019.2914453">10.1109/COMST.2019.2914453</a>
+  apa: Díaz Sánchez, D., Marín López, A., Almenárez Mendoza, F., Arias Cabarcos, P.,
+    &#38; Simon Sherratt, R. (2019). TLS/PKI Challenges and Certificate Pinning Techniques
+    for IoT and M2M Secure Communications. <i>{IEEE} Commun. Surv. Tutorials</i>,
+    <i>21</i>(4), 3502–3531. <a href="https://doi.org/10.1109/COMST.2019.2914453">https://doi.org/10.1109/COMST.2019.2914453</a>
+  bibtex: '@article{Díaz Sánchez_Marín López_Almenárez Mendoza_Arias Cabarcos_Simon
+    Sherratt_2019, title={TLS/PKI Challenges and Certificate Pinning Techniques for
+    IoT and M2M Secure Communications}, volume={21}, DOI={<a href="https://doi.org/10.1109/COMST.2019.2914453">10.1109/COMST.2019.2914453</a>},
+    number={4}, journal={{IEEE} Commun. Surv. Tutorials}, author={Díaz Sánchez, Daniel
+    and Marín López, Andrés and Almenárez Mendoza, Florina and Arias Cabarcos, Patricia
+    and Simon Sherratt, R.}, year={2019}, pages={3502–3531} }'
+  chicago: 'Díaz Sánchez, Daniel, Andrés Marín López, Florina Almenárez Mendoza, Patricia
+    Arias Cabarcos, and R. Simon Sherratt. “TLS/PKI Challenges and Certificate Pinning
+    Techniques for IoT and M2M Secure Communications.” <i>{IEEE} Commun. Surv. Tutorials</i>
+    21, no. 4 (2019): 3502–31. <a href="https://doi.org/10.1109/COMST.2019.2914453">https://doi.org/10.1109/COMST.2019.2914453</a>.'
+  ieee: 'D. Díaz Sánchez, A. Marín López, F. Almenárez Mendoza, P. Arias Cabarcos,
+    and R. Simon Sherratt, “TLS/PKI Challenges and Certificate Pinning Techniques
+    for IoT and M2M Secure Communications,” <i>{IEEE} Commun. Surv. Tutorials</i>,
+    vol. 21, no. 4, pp. 3502–3531, 2019, doi: <a href="https://doi.org/10.1109/COMST.2019.2914453">10.1109/COMST.2019.2914453</a>.'
+  mla: Díaz Sánchez, Daniel, et al. “TLS/PKI Challenges and Certificate Pinning Techniques
+    for IoT and M2M Secure Communications.” <i>{IEEE} Commun. Surv. Tutorials</i>,
+    vol. 21, no. 4, 2019, pp. 3502–31, doi:<a href="https://doi.org/10.1109/COMST.2019.2914453">10.1109/COMST.2019.2914453</a>.
+  short: D. Díaz Sánchez, A. Marín López, F. Almenárez Mendoza, P. Arias Cabarcos,
+    R. Simon Sherratt, {IEEE} Commun. Surv. Tutorials 21 (2019) 3502–3531.
+date_created: 2021-12-08T19:13:26Z
+date_updated: 2022-01-27T16:54:45Z
+doi: 10.1109/COMST.2019.2914453
+extern: '1'
+intvolume: '        21'
+issue: '4'
+language:
+- iso: eng
+page: 3502-3531
+publication: '{IEEE} Commun. Surv. Tutorials'
+status: public
+title: TLS/PKI Challenges and Certificate Pinning Techniques for IoT and M2M Secure
+  Communications
+type: journal_article
+user_id: '92804'
+volume: 21
+year: '2019'
+...
+---
+_id: '28467'
+author:
+- first_name: Daniel
+  full_name: Díaz Sánchez, Daniel
+  last_name: Díaz Sánchez
+- first_name: Andrés
+  full_name: Marín López, Andrés
+  last_name: Marín López
+- first_name: Florina
+  full_name: Almenárez Mendoza, Florina
+  last_name: Almenárez Mendoza
+- first_name: Patricia
+  full_name: Arias Cabarcos, Patricia
+  id: '92804'
+  last_name: Arias Cabarcos
+citation:
+  ama: Díaz Sánchez D, Marín López A, Almenárez Mendoza F, Arias Cabarcos P. DNS/DANE
+    Collision-Based Distributed and Dynamic Authentication for Microservices in IoT.
+    <i>Sensors</i>. 2019;19(15):3292. doi:<a href="https://doi.org/10.3390/s19153292">10.3390/s19153292</a>
+  apa: Díaz Sánchez, D., Marín López, A., Almenárez Mendoza, F., &#38; Arias Cabarcos,
+    P. (2019). DNS/DANE Collision-Based Distributed and Dynamic Authentication for
+    Microservices in IoT. <i>Sensors</i>, <i>19</i>(15), 3292. <a href="https://doi.org/10.3390/s19153292">https://doi.org/10.3390/s19153292</a>
+  bibtex: '@article{Díaz Sánchez_Marín López_Almenárez Mendoza_Arias Cabarcos_2019,
+    title={DNS/DANE Collision-Based Distributed and Dynamic Authentication for Microservices
+    in IoT}, volume={19}, DOI={<a href="https://doi.org/10.3390/s19153292">10.3390/s19153292</a>},
+    number={15}, journal={Sensors}, author={Díaz Sánchez, Daniel and Marín López,
+    Andrés and Almenárez Mendoza, Florina and Arias Cabarcos, Patricia}, year={2019},
+    pages={3292} }'
+  chicago: 'Díaz Sánchez, Daniel, Andrés Marín López, Florina Almenárez Mendoza, and
+    Patricia Arias Cabarcos. “DNS/DANE Collision-Based Distributed and Dynamic Authentication
+    for Microservices in IoT.” <i>Sensors</i> 19, no. 15 (2019): 3292. <a href="https://doi.org/10.3390/s19153292">https://doi.org/10.3390/s19153292</a>.'
+  ieee: 'D. Díaz Sánchez, A. Marín López, F. Almenárez Mendoza, and P. Arias Cabarcos,
+    “DNS/DANE Collision-Based Distributed and Dynamic Authentication for Microservices
+    in IoT,” <i>Sensors</i>, vol. 19, no. 15, p. 3292, 2019, doi: <a href="https://doi.org/10.3390/s19153292">10.3390/s19153292</a>.'
+  mla: Díaz Sánchez, Daniel, et al. “DNS/DANE Collision-Based Distributed and Dynamic
+    Authentication for Microservices in IoT.” <i>Sensors</i>, vol. 19, no. 15, 2019,
+    p. 3292, doi:<a href="https://doi.org/10.3390/s19153292">10.3390/s19153292</a>.
+  short: D. Díaz Sánchez, A. Marín López, F. Almenárez Mendoza, P. Arias Cabarcos,
+    Sensors 19 (2019) 3292.
+date_created: 2021-12-08T19:13:29Z
+date_updated: 2022-01-27T16:55:38Z
+doi: 10.3390/s19153292
+extern: '1'
+intvolume: '        19'
+issue: '15'
+language:
+- iso: eng
+page: '3292'
+publication: Sensors
+status: public
+title: DNS/DANE Collision-Based Distributed and Dynamic Authentication for Microservices
+  in IoT
+type: journal_article
+user_id: '92804'
+volume: 19
+year: '2019'
+...
+---
+_id: '28475'
+author:
+- first_name: Rosa
+  full_name: Sánchez-Guerrero, Rosa
+  last_name: Sánchez-Guerrero
+- first_name: Florina
+  full_name: Almenárez Mendoza, Florina
+  last_name: Almenárez Mendoza
+- first_name: Daniel
+  full_name: Díaz Sánchez, Daniel
+  last_name: Díaz Sánchez
+- first_name: Patricia
+  full_name: Arias Cabarcos, Patricia
+  id: '92804'
+  last_name: Arias Cabarcos
+- first_name: Andr{\'{e}}s
+  full_name: Marín López, Andr{\'{e}}s
+  last_name: Marín López
+citation:
+  ama: 'Sánchez-Guerrero R, Almenárez Mendoza F, Díaz Sánchez D, Arias Cabarcos P,
+    Marín López A. Collaborative eHealth Meets Security: Privacy-Enhancing Patient
+    Profile Management. <i>{IEEE} J Biomed Health Informatics</i>. 2017;21(6):1741-1749.
+    doi:<a href="https://doi.org/10.1109/JBHI.2017.2655419">10.1109/JBHI.2017.2655419</a>'
+  apa: 'Sánchez-Guerrero, R., Almenárez Mendoza, F., Díaz Sánchez, D., Arias Cabarcos,
+    P., &#38; Marín López, A. (2017). Collaborative eHealth Meets Security: Privacy-Enhancing
+    Patient Profile Management. <i>{IEEE} J. Biomed. Health Informatics</i>, <i>21</i>(6),
+    1741–1749. <a href="https://doi.org/10.1109/JBHI.2017.2655419">https://doi.org/10.1109/JBHI.2017.2655419</a>'
+  bibtex: '@article{Sánchez-Guerrero_Almenárez Mendoza_Díaz Sánchez_Arias Cabarcos_Marín
+    López_2017, title={Collaborative eHealth Meets Security: Privacy-Enhancing Patient
+    Profile Management}, volume={21}, DOI={<a href="https://doi.org/10.1109/JBHI.2017.2655419">10.1109/JBHI.2017.2655419</a>},
+    number={6}, journal={{IEEE} J. Biomed. Health Informatics}, author={Sánchez-Guerrero,
+    Rosa and Almenárez Mendoza, Florina and Díaz Sánchez, Daniel and Arias Cabarcos,
+    Patricia and Marín López, Andr{\’{e}}s}, year={2017}, pages={1741–1749} }'
+  chicago: 'Sánchez-Guerrero, Rosa, Florina Almenárez Mendoza, Daniel Díaz Sánchez,
+    Patricia Arias Cabarcos, and Andr{\’{e}}s Marín López. “Collaborative EHealth
+    Meets Security: Privacy-Enhancing Patient Profile Management.” <i>{IEEE} J. Biomed.
+    Health Informatics</i> 21, no. 6 (2017): 1741–49. <a href="https://doi.org/10.1109/JBHI.2017.2655419">https://doi.org/10.1109/JBHI.2017.2655419</a>.'
+  ieee: 'R. Sánchez-Guerrero, F. Almenárez Mendoza, D. Díaz Sánchez, P. Arias Cabarcos,
+    and A. Marín López, “Collaborative eHealth Meets Security: Privacy-Enhancing Patient
+    Profile Management,” <i>{IEEE} J. Biomed. Health Informatics</i>, vol. 21, no.
+    6, pp. 1741–1749, 2017, doi: <a href="https://doi.org/10.1109/JBHI.2017.2655419">10.1109/JBHI.2017.2655419</a>.'
+  mla: 'Sánchez-Guerrero, Rosa, et al. “Collaborative EHealth Meets Security: Privacy-Enhancing
+    Patient Profile Management.” <i>{IEEE} J. Biomed. Health Informatics</i>, vol.
+    21, no. 6, 2017, pp. 1741–49, doi:<a href="https://doi.org/10.1109/JBHI.2017.2655419">10.1109/JBHI.2017.2655419</a>.'
+  short: R. Sánchez-Guerrero, F. Almenárez Mendoza, D. Díaz Sánchez, P. Arias Cabarcos,
+    A. Marín López, {IEEE} J. Biomed. Health Informatics 21 (2017) 1741–1749.
+date_created: 2021-12-08T19:13:39Z
+date_updated: 2022-01-27T17:00:39Z
+doi: 10.1109/JBHI.2017.2655419
+extern: '1'
+intvolume: '        21'
+issue: '6'
+language:
+- iso: eng
+page: 1741-1749
+publication: '{IEEE} J. Biomed. Health Informatics'
+status: public
+title: 'Collaborative eHealth Meets Security: Privacy-Enhancing Patient Profile Management'
+type: journal_article
+user_id: '92804'
+volume: 21
+year: '2017'
+...
+---
+_id: '28474'
+author:
+- first_name: Eugenio
+  full_name: Rubio-Drosdov, Eugenio
+  last_name: Rubio-Drosdov
+- first_name: Daniel
+  full_name: Díaz Sánchez, Daniel
+  last_name: Díaz Sánchez
+- first_name: Florina
+  full_name: Almenárez-Mendoza, Florina
+  last_name: Almenárez-Mendoza
+- first_name: Patricia
+  full_name: Arias Cabarcos, Patricia
+  id: '92804'
+  last_name: Arias Cabarcos
+- first_name: Andrés
+  full_name: Marín, Andrés
+  last_name: Marín
+citation:
+  ama: Rubio-Drosdov E, Díaz Sánchez D, Almenárez-Mendoza F, Arias Cabarcos P, Marín
+    A. Seamless human-device interaction in the internet of things. <i>{IEEE} Trans
+    Consumer Electron</i>. 2017;63(4):490-498. doi:<a href="https://doi.org/10.1109/TCE.2017.015076">10.1109/TCE.2017.015076</a>
+  apa: Rubio-Drosdov, E., Díaz Sánchez, D., Almenárez-Mendoza, F., Arias Cabarcos,
+    P., &#38; Marín, A. (2017). Seamless human-device interaction in the internet
+    of things. <i>{IEEE} Trans. Consumer Electron.</i>, <i>63</i>(4), 490–498. <a
+    href="https://doi.org/10.1109/TCE.2017.015076">https://doi.org/10.1109/TCE.2017.015076</a>
+  bibtex: '@article{Rubio-Drosdov_Díaz Sánchez_Almenárez-Mendoza_Arias Cabarcos_Marín_2017,
+    title={Seamless human-device interaction in the internet of things}, volume={63},
+    DOI={<a href="https://doi.org/10.1109/TCE.2017.015076">10.1109/TCE.2017.015076</a>},
+    number={4}, journal={{IEEE} Trans. Consumer Electron.}, author={Rubio-Drosdov,
+    Eugenio and Díaz Sánchez, Daniel and Almenárez-Mendoza, Florina and Arias Cabarcos,
+    Patricia and Marín, Andrés}, year={2017}, pages={490–498} }'
+  chicago: 'Rubio-Drosdov, Eugenio, Daniel Díaz Sánchez, Florina Almenárez-Mendoza,
+    Patricia Arias Cabarcos, and Andrés Marín. “Seamless Human-Device Interaction
+    in the Internet of Things.” <i>{IEEE} Trans. Consumer Electron.</i> 63, no. 4
+    (2017): 490–98. <a href="https://doi.org/10.1109/TCE.2017.015076">https://doi.org/10.1109/TCE.2017.015076</a>.'
+  ieee: 'E. Rubio-Drosdov, D. Díaz Sánchez, F. Almenárez-Mendoza, P. Arias Cabarcos,
+    and A. Marín, “Seamless human-device interaction in the internet of things,” <i>{IEEE}
+    Trans. Consumer Electron.</i>, vol. 63, no. 4, pp. 490–498, 2017, doi: <a href="https://doi.org/10.1109/TCE.2017.015076">10.1109/TCE.2017.015076</a>.'
+  mla: Rubio-Drosdov, Eugenio, et al. “Seamless Human-Device Interaction in the Internet
+    of Things.” <i>{IEEE} Trans. Consumer Electron.</i>, vol. 63, no. 4, 2017, pp.
+    490–98, doi:<a href="https://doi.org/10.1109/TCE.2017.015076">10.1109/TCE.2017.015076</a>.
+  short: E. Rubio-Drosdov, D. Díaz Sánchez, F. Almenárez-Mendoza, P. Arias Cabarcos,
+    A. Marín, {IEEE} Trans. Consumer Electron. 63 (2017) 490–498.
+date_created: 2021-12-08T19:13:38Z
+date_updated: 2022-01-27T17:00:57Z
+doi: 10.1109/TCE.2017.015076
+extern: '1'
+intvolume: '        63'
+issue: '4'
+language:
+- iso: eng
+page: 490-498
+publication: '{IEEE} Trans. Consumer Electron.'
+status: public
+title: Seamless human-device interaction in the internet of things
+type: journal_article
+user_id: '92804'
+volume: 63
+year: '2017'
+...
+---
+_id: '28479'
+author:
+- first_name: Daniel
+  full_name: Díaz Sánchez, Daniel
+  last_name: Díaz Sánchez
+- first_name: R.
+  full_name: Simon Sherratt, R.
+  last_name: Simon Sherratt
+- first_name: Florina
+  full_name: Almenárez, Florina
+  last_name: Almenárez
+- first_name: Patricia
+  full_name: Arias Cabarcos, Patricia
+  id: '92804'
+  last_name: Arias Cabarcos
+- first_name: Andr{\'{e}}s
+  full_name: Marín, Andr{\'{e}}s
+  last_name: Marín
+citation:
+  ama: Díaz Sánchez D, Simon Sherratt R, Almenárez F, Arias Cabarcos P, Marín A. Secure
+    store and forward proxy for dynamic IoT applications over M2M networks. <i>{IEEE}
+    Trans Consumer Electron</i>. 2016;62(4):389-397. doi:<a href="https://doi.org/10.1109/TCE.2016.7838091">10.1109/TCE.2016.7838091</a>
+  apa: Díaz Sánchez, D., Simon Sherratt, R., Almenárez, F., Arias Cabarcos, P., &#38;
+    Marín, A. (2016). Secure store and forward proxy for dynamic IoT applications
+    over M2M networks. <i>{IEEE} Trans. Consumer Electron.</i>, <i>62</i>(4), 389–397.
+    <a href="https://doi.org/10.1109/TCE.2016.7838091">https://doi.org/10.1109/TCE.2016.7838091</a>
+  bibtex: '@article{Díaz Sánchez_Simon Sherratt_Almenárez_Arias Cabarcos_Marín_2016,
+    title={Secure store and forward proxy for dynamic IoT applications over M2M networks},
+    volume={62}, DOI={<a href="https://doi.org/10.1109/TCE.2016.7838091">10.1109/TCE.2016.7838091</a>},
+    number={4}, journal={{IEEE} Trans. Consumer Electron.}, author={Díaz Sánchez,
+    Daniel and Simon Sherratt, R. and Almenárez, Florina and Arias Cabarcos, Patricia
+    and Marín, Andr{\’{e}}s}, year={2016}, pages={389–397} }'
+  chicago: 'Díaz Sánchez, Daniel, R. Simon Sherratt, Florina Almenárez, Patricia Arias
+    Cabarcos, and Andr{\’{e}}s Marín. “Secure Store and Forward Proxy for Dynamic
+    IoT Applications over M2M Networks.” <i>{IEEE} Trans. Consumer Electron.</i> 62,
+    no. 4 (2016): 389–97. <a href="https://doi.org/10.1109/TCE.2016.7838091">https://doi.org/10.1109/TCE.2016.7838091</a>.'
+  ieee: 'D. Díaz Sánchez, R. Simon Sherratt, F. Almenárez, P. Arias Cabarcos, and
+    A. Marín, “Secure store and forward proxy for dynamic IoT applications over M2M
+    networks,” <i>{IEEE} Trans. Consumer Electron.</i>, vol. 62, no. 4, pp. 389–397,
+    2016, doi: <a href="https://doi.org/10.1109/TCE.2016.7838091">10.1109/TCE.2016.7838091</a>.'
+  mla: Díaz Sánchez, Daniel, et al. “Secure Store and Forward Proxy for Dynamic IoT
+    Applications over M2M Networks.” <i>{IEEE} Trans. Consumer Electron.</i>, vol.
+    62, no. 4, 2016, pp. 389–97, doi:<a href="https://doi.org/10.1109/TCE.2016.7838091">10.1109/TCE.2016.7838091</a>.
+  short: D. Díaz Sánchez, R. Simon Sherratt, F. Almenárez, P. Arias Cabarcos, A. Marín,
+    {IEEE} Trans. Consumer Electron. 62 (2016) 389–397.
+date_created: 2021-12-08T19:13:45Z
+date_updated: 2022-01-27T16:27:06Z
+doi: 10.1109/TCE.2016.7838091
+extern: '1'
+intvolume: '        62'
+issue: '4'
+language:
+- iso: eng
+page: 389-397
+publication: '{IEEE} Trans. Consumer Electron.'
+status: public
+title: Secure store and forward proxy for dynamic IoT applications over M2M networks
+type: journal_article
+user_id: '92804'
+volume: 62
+year: '2016'
+...
+---
+_id: '28478'
+author:
+- first_name: Patricia
+  full_name: Arias Cabarcos, Patricia
+  id: '92804'
+  last_name: Arias Cabarcos
+- first_name: Andr{\'{e}}s
+  full_name: Marín López, Andr{\'{e}}s
+  last_name: Marín López
+- first_name: Diego
+  full_name: Palacios, Diego
+  last_name: Palacios
+- first_name: Florina
+  full_name: Almenárez, Florina
+  last_name: Almenárez
+- first_name: Daniel
+  full_name: Díaz Sánchez, Daniel
+  last_name: Díaz Sánchez
+citation:
+  ama: 'Arias Cabarcos P, Marín López A, Palacios D, Almenárez F, Díaz Sánchez D.
+    Comparing Password Management Software: Toward Usable and Secure Enterprise Authentication.
+    <i>{IT} Prof</i>. 2016;18(5):34-40. doi:<a href="https://doi.org/10.1109/MITP.2016.81">10.1109/MITP.2016.81</a>'
+  apa: 'Arias Cabarcos, P., Marín López, A., Palacios, D., Almenárez, F., &#38; Díaz
+    Sánchez, D. (2016). Comparing Password Management Software: Toward Usable and
+    Secure Enterprise Authentication. <i>{IT} Prof.</i>, <i>18</i>(5), 34–40. <a href="https://doi.org/10.1109/MITP.2016.81">https://doi.org/10.1109/MITP.2016.81</a>'
+  bibtex: '@article{Arias Cabarcos_Marín López_Palacios_Almenárez_Díaz Sánchez_2016,
+    title={Comparing Password Management Software: Toward Usable and Secure Enterprise
+    Authentication}, volume={18}, DOI={<a href="https://doi.org/10.1109/MITP.2016.81">10.1109/MITP.2016.81</a>},
+    number={5}, journal={{IT} Prof.}, author={Arias Cabarcos, Patricia and Marín López,
+    Andr{\’{e}}s and Palacios, Diego and Almenárez, Florina and Díaz Sánchez, Daniel},
+    year={2016}, pages={34–40} }'
+  chicago: 'Arias Cabarcos, Patricia, Andr{\’{e}}s Marín López, Diego Palacios, Florina
+    Almenárez, and Daniel Díaz Sánchez. “Comparing Password Management Software: Toward
+    Usable and Secure Enterprise Authentication.” <i>{IT} Prof.</i> 18, no. 5 (2016):
+    34–40. <a href="https://doi.org/10.1109/MITP.2016.81">https://doi.org/10.1109/MITP.2016.81</a>.'
+  ieee: 'P. Arias Cabarcos, A. Marín López, D. Palacios, F. Almenárez, and D. Díaz
+    Sánchez, “Comparing Password Management Software: Toward Usable and Secure Enterprise
+    Authentication,” <i>{IT} Prof.</i>, vol. 18, no. 5, pp. 34–40, 2016, doi: <a href="https://doi.org/10.1109/MITP.2016.81">10.1109/MITP.2016.81</a>.'
+  mla: 'Arias Cabarcos, Patricia, et al. “Comparing Password Management Software:
+    Toward Usable and Secure Enterprise Authentication.” <i>{IT} Prof.</i>, vol. 18,
+    no. 5, 2016, pp. 34–40, doi:<a href="https://doi.org/10.1109/MITP.2016.81">10.1109/MITP.2016.81</a>.'
+  short: P. Arias Cabarcos, A. Marín López, D. Palacios, F. Almenárez, D. Díaz Sánchez,
+    {IT} Prof. 18 (2016) 34–40.
+date_created: 2021-12-08T19:13:43Z
+date_updated: 2022-01-27T16:28:25Z
+doi: 10.1109/MITP.2016.81
+extern: '1'
+intvolume: '        18'
+issue: '5'
+language:
+- iso: eng
+page: 34-40
+publication: '{IT} Prof.'
+status: public
+title: 'Comparing Password Management Software: Toward Usable and Secure Enterprise
+  Authentication'
+type: journal_article
+user_id: '92804'
+volume: 18
+year: '2016'
+...
+---
+_id: '28480'
+author:
+- first_name: Daniel
+  full_name: Díaz Sánchez, Daniel
+  last_name: Díaz Sánchez
+- first_name: Rosa
+  full_name: Sánchez Guerrero, Rosa
+  last_name: Sánchez Guerrero
+- first_name: Patricia
+  full_name: Arias Cabarcos, Patricia
+  id: '92804'
+  last_name: Arias Cabarcos
+- first_name: Florina
+  full_name: Almenárez, Florina
+  last_name: Almenárez
+- first_name: Andr{\'{e}}s
+  full_name: Marín, Andr{\'{e}}s
+  last_name: Marín
+citation:
+  ama: Díaz Sánchez D, Sánchez Guerrero R, Arias Cabarcos P, Almenárez F, Marín A.
+    A distributed transcoding and content protection system - Enabling pay per quality
+    using the cloud. <i>Telecommun Syst</i>. 2016;61(1):59-76. doi:<a href="https://doi.org/10.1007/s11235-014-9952-x">10.1007/s11235-014-9952-x</a>
+  apa: Díaz Sánchez, D., Sánchez Guerrero, R., Arias Cabarcos, P., Almenárez, F.,
+    &#38; Marín, A. (2016). A distributed transcoding and content protection system
+    - Enabling pay per quality using the cloud. <i>Telecommun. Syst.</i>, <i>61</i>(1),
+    59–76. <a href="https://doi.org/10.1007/s11235-014-9952-x">https://doi.org/10.1007/s11235-014-9952-x</a>
+  bibtex: '@article{Díaz Sánchez_Sánchez Guerrero_Arias Cabarcos_Almenárez_Marín_2016,
+    title={A distributed transcoding and content protection system - Enabling pay
+    per quality using the cloud}, volume={61}, DOI={<a href="https://doi.org/10.1007/s11235-014-9952-x">10.1007/s11235-014-9952-x</a>},
+    number={1}, journal={Telecommun. Syst.}, author={Díaz Sánchez, Daniel and Sánchez
+    Guerrero, Rosa and Arias Cabarcos, Patricia and Almenárez, Florina and Marín,
+    Andr{\’{e}}s}, year={2016}, pages={59–76} }'
+  chicago: 'Díaz Sánchez, Daniel, Rosa Sánchez Guerrero, Patricia Arias Cabarcos,
+    Florina Almenárez, and Andr{\’{e}}s Marín. “A Distributed Transcoding and Content
+    Protection System - Enabling Pay per Quality Using the Cloud.” <i>Telecommun.
+    Syst.</i> 61, no. 1 (2016): 59–76. <a href="https://doi.org/10.1007/s11235-014-9952-x">https://doi.org/10.1007/s11235-014-9952-x</a>.'
+  ieee: 'D. Díaz Sánchez, R. Sánchez Guerrero, P. Arias Cabarcos, F. Almenárez, and
+    A. Marín, “A distributed transcoding and content protection system - Enabling
+    pay per quality using the cloud,” <i>Telecommun. Syst.</i>, vol. 61, no. 1, pp.
+    59–76, 2016, doi: <a href="https://doi.org/10.1007/s11235-014-9952-x">10.1007/s11235-014-9952-x</a>.'
+  mla: Díaz Sánchez, Daniel, et al. “A Distributed Transcoding and Content Protection
+    System - Enabling Pay per Quality Using the Cloud.” <i>Telecommun. Syst.</i>,
+    vol. 61, no. 1, 2016, pp. 59–76, doi:<a href="https://doi.org/10.1007/s11235-014-9952-x">10.1007/s11235-014-9952-x</a>.
+  short: D. Díaz Sánchez, R. Sánchez Guerrero, P. Arias Cabarcos, F. Almenárez, A.
+    Marín, Telecommun. Syst. 61 (2016) 59–76.
+date_created: 2021-12-08T19:13:46Z
+date_updated: 2022-01-27T16:42:11Z
+doi: 10.1007/s11235-014-9952-x
+extern: '1'
+intvolume: '        61'
+issue: '1'
+language:
+- iso: eng
+page: 59-76
+publication: Telecommun. Syst.
+status: public
+title: A distributed transcoding and content protection system - Enabling pay per
+  quality using the cloud
+type: journal_article
+user_id: '92804'
+volume: 61
+year: '2016'
+...
+---
+_id: '28477'
+author:
+- first_name: Omar
+  full_name: Abou Khaled, Omar
+  last_name: Abou Khaled
+- first_name: Andr{\'{e}}s
+  full_name: Mar{\'{\i}}n, Andr{\'{e}}s
+  last_name: Mar{\'{\i}}n
+- first_name: Florina
+  full_name: Almenárez, Florina
+  last_name: Almenárez
+- first_name: Patricia
+  full_name: Arias Cabarcos, Patricia
+  id: '92804'
+  last_name: Arias Cabarcos
+- first_name: Daniel
+  full_name: Díaz Sánchez, Daniel
+  last_name: Díaz Sánchez
+citation:
+  ama: Abou Khaled O, Mar{\’{\i}}n A, Almenárez F, Arias Cabarcos P, Díaz Sánchez
+    D. Analysis of Secure TCP/IP Profile in 61850 Based Substation Automation System
+    for Smart Grids. <i>Int J Distributed Sens Networks</i>. 2016;12(4):5793183:1-5793183:11.
+    doi:<a href="https://doi.org/10.1155/2016/5793183">10.1155/2016/5793183</a>
+  apa: Abou Khaled, O., Mar{\’{\i}}n, A., Almenárez, F., Arias Cabarcos, P., &#38;
+    Díaz Sánchez, D. (2016). Analysis of Secure TCP/IP Profile in 61850 Based Substation
+    Automation System for Smart Grids. <i>Int. J. Distributed Sens. Networks</i>,
+    <i>12</i>(4), 5793183:1-5793183:11. <a href="https://doi.org/10.1155/2016/5793183">https://doi.org/10.1155/2016/5793183</a>
+  bibtex: '@article{Abou Khaled_Mar{\’{\i}}n_Almenárez_Arias Cabarcos_Díaz Sánchez_2016,
+    title={Analysis of Secure TCP/IP Profile in 61850 Based Substation Automation
+    System for Smart Grids}, volume={12}, DOI={<a href="https://doi.org/10.1155/2016/5793183">10.1155/2016/5793183</a>},
+    number={4}, journal={Int. J. Distributed Sens. Networks}, author={Abou Khaled,
+    Omar and Mar{\’{\i}}n, Andr{\’{e}}s and Almenárez, Florina and Arias Cabarcos,
+    Patricia and Díaz Sánchez, Daniel}, year={2016}, pages={5793183:1-5793183:11}
+    }'
+  chicago: 'Abou Khaled, Omar, Andr{\’{e}}s Mar{\’{\i}}n, Florina Almenárez, Patricia
+    Arias Cabarcos, and Daniel Díaz Sánchez. “Analysis of Secure TCP/IP Profile in
+    61850 Based Substation Automation System for Smart Grids.” <i>Int. J. Distributed
+    Sens. Networks</i> 12, no. 4 (2016): 5793183:1-5793183:11. <a href="https://doi.org/10.1155/2016/5793183">https://doi.org/10.1155/2016/5793183</a>.'
+  ieee: 'O. Abou Khaled, A. Mar{\’{\i}}n, F. Almenárez, P. Arias Cabarcos, and D.
+    Díaz Sánchez, “Analysis of Secure TCP/IP Profile in 61850 Based Substation Automation
+    System for Smart Grids,” <i>Int. J. Distributed Sens. Networks</i>, vol. 12, no.
+    4, p. 5793183:1-5793183:11, 2016, doi: <a href="https://doi.org/10.1155/2016/5793183">10.1155/2016/5793183</a>.'
+  mla: Abou Khaled, Omar, et al. “Analysis of Secure TCP/IP Profile in 61850 Based
+    Substation Automation System for Smart Grids.” <i>Int. J. Distributed Sens. Networks</i>,
+    vol. 12, no. 4, 2016, p. 5793183:1-5793183:11, doi:<a href="https://doi.org/10.1155/2016/5793183">10.1155/2016/5793183</a>.
+  short: O. Abou Khaled, A. Mar{\’{\i}}n, F. Almenárez, P. Arias Cabarcos, D. Díaz
+    Sánchez, Int. J. Distributed Sens. Networks 12 (2016) 5793183:1-5793183:11.
+date_created: 2021-12-08T19:13:42Z
+date_updated: 2022-01-27T17:00:25Z
+doi: 10.1155/2016/5793183
+extern: '1'
+intvolume: '        12'
+issue: '4'
+language:
+- iso: eng
+page: 5793183:1-5793183:11
+publication: Int. J. Distributed Sens. Networks
+status: public
+title: Analysis of Secure TCP/IP Profile in 61850 Based Substation Automation System
+  for Smart Grids
+type: journal_article
+user_id: '92804'
+volume: 12
+year: '2016'
+...
+---
+_id: '28484'
+author:
+- first_name: Patricia
+  full_name: Arias Cabarcos, Patricia
+  id: '92804'
+  last_name: Arias Cabarcos
+- first_name: Florina
+  full_name: Almenárez, Florina
+  last_name: Almenárez
+- first_name: Rubén
+  full_name: Trapero, Rubén
+  last_name: Trapero
+- first_name: Daniel
+  full_name: Díaz Sánchez, Daniel
+  last_name: Díaz Sánchez
+- first_name: Andrés
+  full_name: Marín López, Andrés
+  last_name: Marín López
+citation:
+  ama: 'Arias Cabarcos P, Almenárez F, Trapero R, Díaz Sánchez D, Marín López A. Blended
+    Identity: Pervasive IdM for Continuous Authentication. <i>{IEEE} Secur Priv</i>.
+    2015;13(3):32-39. doi:<a href="https://doi.org/10.1109/MSP.2015.62">10.1109/MSP.2015.62</a>'
+  apa: 'Arias Cabarcos, P., Almenárez, F., Trapero, R., Díaz Sánchez, D., &#38; Marín
+    López, A. (2015). Blended Identity: Pervasive IdM for Continuous Authentication.
+    <i>{IEEE} Secur. Priv.</i>, <i>13</i>(3), 32–39. <a href="https://doi.org/10.1109/MSP.2015.62">https://doi.org/10.1109/MSP.2015.62</a>'
+  bibtex: '@article{Arias Cabarcos_Almenárez_Trapero_Díaz Sánchez_Marín López_2015,
+    title={Blended Identity: Pervasive IdM for Continuous Authentication}, volume={13},
+    DOI={<a href="https://doi.org/10.1109/MSP.2015.62">10.1109/MSP.2015.62</a>}, number={3},
+    journal={{IEEE} Secur. Priv.}, author={Arias Cabarcos, Patricia and Almenárez,
+    Florina and Trapero, Rubén and Díaz Sánchez, Daniel and Marín López, Andrés},
+    year={2015}, pages={32–39} }'
+  chicago: 'Arias Cabarcos, Patricia, Florina Almenárez, Rubén Trapero, Daniel Díaz
+    Sánchez, and Andrés Marín López. “Blended Identity: Pervasive IdM for Continuous
+    Authentication.” <i>{IEEE} Secur. Priv.</i> 13, no. 3 (2015): 32–39. <a href="https://doi.org/10.1109/MSP.2015.62">https://doi.org/10.1109/MSP.2015.62</a>.'
+  ieee: 'P. Arias Cabarcos, F. Almenárez, R. Trapero, D. Díaz Sánchez, and A. Marín
+    López, “Blended Identity: Pervasive IdM for Continuous Authentication,” <i>{IEEE}
+    Secur. Priv.</i>, vol. 13, no. 3, pp. 32–39, 2015, doi: <a href="https://doi.org/10.1109/MSP.2015.62">10.1109/MSP.2015.62</a>.'
+  mla: 'Arias Cabarcos, Patricia, et al. “Blended Identity: Pervasive IdM for Continuous
+    Authentication.” <i>{IEEE} Secur. Priv.</i>, vol. 13, no. 3, 2015, pp. 32–39,
+    doi:<a href="https://doi.org/10.1109/MSP.2015.62">10.1109/MSP.2015.62</a>.'
+  short: P. Arias Cabarcos, F. Almenárez, R. Trapero, D. Díaz Sánchez, A. Marín López,
+    {IEEE} Secur. Priv. 13 (2015) 32–39.
+date_created: 2021-12-08T19:13:51Z
+date_updated: 2022-01-27T16:43:51Z
+doi: 10.1109/MSP.2015.62
+extern: '1'
+intvolume: '        13'
+issue: '3'
+language:
+- iso: eng
+page: 32-39
+publication: '{IEEE} Secur. Priv.'
+status: public
+title: 'Blended Identity: Pervasive IdM for Continuous Authentication'
+type: journal_article
+user_id: '92804'
+volume: 13
+year: '2015'
+...
+---
+_id: '28489'
+author:
+- first_name: Patricia
+  full_name: Arias Cabarcos, Patricia
+  id: '92804'
+  last_name: Arias Cabarcos
+- first_name: Florina
+  full_name: Almenárez, Florina
+  last_name: Almenárez
+- first_name: Félix
+  full_name: Gómez-Mármol, Félix
+  last_name: Gómez-Mármol
+- first_name: Andrés
+  full_name: Marín, Andrés
+  last_name: Marín
+citation:
+  ama: 'Arias Cabarcos P, Almenárez F, Gómez-Mármol F, Marín A. To Federate or Not
+    To Federate: A Reputation-Based Mechanism to Dynamize Cooperation in Identity
+    Management. <i>Wirel Pers Commun</i>. 2014;75(3):1769-1786. doi:<a href="https://doi.org/10.1007/s11277-013-1338-y">10.1007/s11277-013-1338-y</a>'
+  apa: 'Arias Cabarcos, P., Almenárez, F., Gómez-Mármol, F., &#38; Marín, A. (2014).
+    To Federate or Not To Federate: A Reputation-Based Mechanism to Dynamize Cooperation
+    in Identity Management. <i>Wirel. Pers. Commun.</i>, <i>75</i>(3), 1769–1786.
+    <a href="https://doi.org/10.1007/s11277-013-1338-y">https://doi.org/10.1007/s11277-013-1338-y</a>'
+  bibtex: '@article{Arias Cabarcos_Almenárez_Gómez-Mármol_Marín_2014, title={To Federate
+    or Not To Federate: A Reputation-Based Mechanism to Dynamize Cooperation in Identity
+    Management}, volume={75}, DOI={<a href="https://doi.org/10.1007/s11277-013-1338-y">10.1007/s11277-013-1338-y</a>},
+    number={3}, journal={Wirel. Pers. Commun.}, author={Arias Cabarcos, Patricia and
+    Almenárez, Florina and Gómez-Mármol, Félix and Marín, Andrés}, year={2014}, pages={1769–1786}
+    }'
+  chicago: 'Arias Cabarcos, Patricia, Florina Almenárez, Félix Gómez-Mármol, and Andrés
+    Marín. “To Federate or Not To Federate: A Reputation-Based Mechanism to Dynamize
+    Cooperation in Identity Management.” <i>Wirel. Pers. Commun.</i> 75, no. 3 (2014):
+    1769–86. <a href="https://doi.org/10.1007/s11277-013-1338-y">https://doi.org/10.1007/s11277-013-1338-y</a>.'
+  ieee: 'P. Arias Cabarcos, F. Almenárez, F. Gómez-Mármol, and A. Marín, “To Federate
+    or Not To Federate: A Reputation-Based Mechanism to Dynamize Cooperation in Identity
+    Management,” <i>Wirel. Pers. Commun.</i>, vol. 75, no. 3, pp. 1769–1786, 2014,
+    doi: <a href="https://doi.org/10.1007/s11277-013-1338-y">10.1007/s11277-013-1338-y</a>.'
+  mla: 'Arias Cabarcos, Patricia, et al. “To Federate or Not To Federate: A Reputation-Based
+    Mechanism to Dynamize Cooperation in Identity Management.” <i>Wirel. Pers. Commun.</i>,
+    vol. 75, no. 3, 2014, pp. 1769–86, doi:<a href="https://doi.org/10.1007/s11277-013-1338-y">10.1007/s11277-013-1338-y</a>.'
+  short: P. Arias Cabarcos, F. Almenárez, F. Gómez-Mármol, A. Marín, Wirel. Pers.
+    Commun. 75 (2014) 1769–1786.
+date_created: 2021-12-08T19:13:57Z
+date_updated: 2022-01-27T16:46:47Z
+doi: 10.1007/s11277-013-1338-y
+extern: '1'
+intvolume: '        75'
+issue: '3'
+language:
+- iso: eng
+page: 1769-1786
+publication: Wirel. Pers. Commun.
+status: public
+title: 'To Federate or Not To Federate: A Reputation-Based Mechanism to Dynamize Cooperation
+  in Identity Management'
+type: journal_article
+user_id: '92804'
+volume: 75
+year: '2014'
+...
+---
+_id: '28488'
+author:
+- first_name: Daniel
+  full_name: Díaz Sánchez, Daniel
+  last_name: Díaz Sánchez
+- first_name: Florina
+  full_name: Almenárez, Florina
+  last_name: Almenárez
+- first_name: Andrés
+  full_name: Marín, Andrés
+  last_name: Marín
+- first_name: Rosa
+  full_name: Sánchez-Guerrero, Rosa
+  last_name: Sánchez-Guerrero
+- first_name: Patricia
+  full_name: Arias Cabarcos, Patricia
+  id: '92804'
+  last_name: Arias Cabarcos
+citation:
+  ama: 'Díaz Sánchez D, Almenárez F, Marín A, Sánchez-Guerrero R, Arias Cabarcos P.
+    Media Gateway: bringing privacy to private multimedia cloud connections. <i>Telecommun
+    Syst</i>. 2014;55(2):315-330. doi:<a href="https://doi.org/10.1007/s11235-013-9783-1">10.1007/s11235-013-9783-1</a>'
+  apa: 'Díaz Sánchez, D., Almenárez, F., Marín, A., Sánchez-Guerrero, R., &#38; Arias
+    Cabarcos, P. (2014). Media Gateway: bringing privacy to private multimedia cloud
+    connections. <i>Telecommun. Syst.</i>, <i>55</i>(2), 315–330. <a href="https://doi.org/10.1007/s11235-013-9783-1">https://doi.org/10.1007/s11235-013-9783-1</a>'
+  bibtex: '@article{Díaz Sánchez_Almenárez_Marín_Sánchez-Guerrero_Arias Cabarcos_2014,
+    title={Media Gateway: bringing privacy to private multimedia cloud connections},
+    volume={55}, DOI={<a href="https://doi.org/10.1007/s11235-013-9783-1">10.1007/s11235-013-9783-1</a>},
+    number={2}, journal={Telecommun. Syst.}, author={Díaz Sánchez, Daniel and Almenárez,
+    Florina and Marín, Andrés and Sánchez-Guerrero, Rosa and Arias Cabarcos, Patricia},
+    year={2014}, pages={315–330} }'
+  chicago: 'Díaz Sánchez, Daniel, Florina Almenárez, Andrés Marín, Rosa Sánchez-Guerrero,
+    and Patricia Arias Cabarcos. “Media Gateway: Bringing Privacy to Private Multimedia
+    Cloud Connections.” <i>Telecommun. Syst.</i> 55, no. 2 (2014): 315–30. <a href="https://doi.org/10.1007/s11235-013-9783-1">https://doi.org/10.1007/s11235-013-9783-1</a>.'
+  ieee: 'D. Díaz Sánchez, F. Almenárez, A. Marín, R. Sánchez-Guerrero, and P. Arias
+    Cabarcos, “Media Gateway: bringing privacy to private multimedia cloud connections,”
+    <i>Telecommun. Syst.</i>, vol. 55, no. 2, pp. 315–330, 2014, doi: <a href="https://doi.org/10.1007/s11235-013-9783-1">10.1007/s11235-013-9783-1</a>.'
+  mla: 'Díaz Sánchez, Daniel, et al. “Media Gateway: Bringing Privacy to Private Multimedia
+    Cloud Connections.” <i>Telecommun. Syst.</i>, vol. 55, no. 2, 2014, pp. 315–30,
+    doi:<a href="https://doi.org/10.1007/s11235-013-9783-1">10.1007/s11235-013-9783-1</a>.'
+  short: D. Díaz Sánchez, F. Almenárez, A. Marín, R. Sánchez-Guerrero, P. Arias Cabarcos,
+    Telecommun. Syst. 55 (2014) 315–330.
+date_created: 2021-12-08T19:13:56Z
+date_updated: 2022-01-27T16:45:55Z
+doi: 10.1007/s11235-013-9783-1
+extern: '1'
+intvolume: '        55'
+issue: '2'
+language:
+- iso: eng
+page: 315-330
+publication: Telecommun. Syst.
+status: public
+title: 'Media Gateway: bringing privacy to private multimedia cloud connections'
+type: journal_article
+user_id: '92804'
+volume: 55
+year: '2014'
+...
+---
+_id: '28491'
+author:
+- first_name: Florina
+  full_name: Almenárez, Florina
+  last_name: Almenárez
+- first_name: Patricia
+  full_name: Arias Cabarcos, Patricia
+  id: '92804'
+  last_name: Arias Cabarcos
+- first_name: Andrés
+  full_name: Marín, Andrés
+  last_name: Marín
+- first_name: Daniel
+  full_name: Díaz Sánchez, Daniel
+  last_name: Díaz Sánchez
+- first_name: Rosa
+  full_name: Sánchez-Guerrero, Rosa
+  last_name: Sánchez-Guerrero
+citation:
+  ama: Almenárez F, Arias Cabarcos P, Marín A, Díaz Sánchez D, Sánchez-Guerrero R.
+    Overhead of using secure wireless communications in mobile computing. <i>{IEEE}
+    Trans Consumer Electron</i>. 2013;59(2). doi:<a href="https://doi.org/10.1109/TCE.2013.6531115">10.1109/TCE.2013.6531115</a>
+  apa: Almenárez, F., Arias Cabarcos, P., Marín, A., Díaz Sánchez, D., &#38; Sánchez-Guerrero,
+    R. (2013). Overhead of using secure wireless communications in mobile computing.
+    <i>{IEEE} Trans. Consumer Electron.</i>, <i>59</i>(2). <a href="https://doi.org/10.1109/TCE.2013.6531115">https://doi.org/10.1109/TCE.2013.6531115</a>
+  bibtex: '@article{Almenárez_Arias Cabarcos_Marín_Díaz Sánchez_Sánchez-Guerrero_2013,
+    title={Overhead of using secure wireless communications in mobile computing},
+    volume={59}, DOI={<a href="https://doi.org/10.1109/TCE.2013.6531115">10.1109/TCE.2013.6531115</a>},
+    number={2}, journal={{IEEE} Trans. Consumer Electron.}, author={Almenárez, Florina
+    and Arias Cabarcos, Patricia and Marín, Andrés and Díaz Sánchez, Daniel and Sánchez-Guerrero,
+    Rosa}, year={2013} }'
+  chicago: Almenárez, Florina, Patricia Arias Cabarcos, Andrés Marín, Daniel Díaz
+    Sánchez, and Rosa Sánchez-Guerrero. “Overhead of Using Secure Wireless Communications
+    in Mobile Computing.” <i>{IEEE} Trans. Consumer Electron.</i> 59, no. 2 (2013).
+    <a href="https://doi.org/10.1109/TCE.2013.6531115">https://doi.org/10.1109/TCE.2013.6531115</a>.
+  ieee: 'F. Almenárez, P. Arias Cabarcos, A. Marín, D. Díaz Sánchez, and R. Sánchez-Guerrero,
+    “Overhead of using secure wireless communications in mobile computing,” <i>{IEEE}
+    Trans. Consumer Electron.</i>, vol. 59, no. 2, 2013, doi: <a href="https://doi.org/10.1109/TCE.2013.6531115">10.1109/TCE.2013.6531115</a>.'
+  mla: Almenárez, Florina, et al. “Overhead of Using Secure Wireless Communications
+    in Mobile Computing.” <i>{IEEE} Trans. Consumer Electron.</i>, vol. 59, no. 2,
+    2013, doi:<a href="https://doi.org/10.1109/TCE.2013.6531115">10.1109/TCE.2013.6531115</a>.
+  short: F. Almenárez, P. Arias Cabarcos, A. Marín, D. Díaz Sánchez, R. Sánchez-Guerrero,
+    {IEEE} Trans. Consumer Electron. 59 (2013).
+date_created: 2021-12-08T19:14:00Z
+date_updated: 2022-01-27T16:47:57Z
+doi: 10.1109/TCE.2013.6531115
+extern: '1'
+intvolume: '        59'
+issue: '2'
+language:
+- iso: eng
+publication: '{IEEE} Trans. Consumer Electron.'
+status: public
+title: Overhead of using secure wireless communications in mobile computing
+type: journal_article
+user_id: '92804'
+volume: 59
+year: '2013'
+...
+---
+_id: '28497'
+author:
+- first_name: Patricia
+  full_name: Arias Cabarcos, Patricia
+  id: '92804'
+  last_name: Arias Cabarcos
+- first_name: Florina
+  full_name: Almenárez Mendoza, Florina
+  last_name: Almenárez Mendoza
+- first_name: Rosa
+  full_name: Sánchez-Guerrero, Rosa
+  last_name: Sánchez-Guerrero
+- first_name: Andrés
+  full_name: Marín López, Andrés
+  last_name: Marín López
+- first_name: Daniel
+  full_name: Díaz Sánchez, Daniel
+  last_name: Díaz Sánchez
+citation:
+  ama: 'Arias Cabarcos P, Almenárez Mendoza F, Sánchez-Guerrero R, Marín López A,
+    Díaz Sánchez D. SuSSo: Seamless and ubiquitous single sign-on for cloud service
+    continuity across devices. <i>{IEEE} Trans Consumer Electron</i>. 2012;58(4):1425-1433.
+    doi:<a href="https://doi.org/10.1109/TCE.2012.6415016">10.1109/TCE.2012.6415016</a>'
+  apa: 'Arias Cabarcos, P., Almenárez Mendoza, F., Sánchez-Guerrero, R., Marín López,
+    A., &#38; Díaz Sánchez, D. (2012). SuSSo: Seamless and ubiquitous single sign-on
+    for cloud service continuity across devices. <i>{IEEE} Trans. Consumer Electron.</i>,
+    <i>58</i>(4), 1425–1433. <a href="https://doi.org/10.1109/TCE.2012.6415016">https://doi.org/10.1109/TCE.2012.6415016</a>'
+  bibtex: '@article{Arias Cabarcos_Almenárez Mendoza_Sánchez-Guerrero_Marín López_Díaz
+    Sánchez_2012, title={SuSSo: Seamless and ubiquitous single sign-on for cloud service
+    continuity across devices}, volume={58}, DOI={<a href="https://doi.org/10.1109/TCE.2012.6415016">10.1109/TCE.2012.6415016</a>},
+    number={4}, journal={{IEEE} Trans. Consumer Electron.}, author={Arias Cabarcos,
+    Patricia and Almenárez Mendoza, Florina and Sánchez-Guerrero, Rosa and Marín López,
+    Andrés and Díaz Sánchez, Daniel}, year={2012}, pages={1425–1433} }'
+  chicago: 'Arias Cabarcos, Patricia, Florina Almenárez Mendoza, Rosa Sánchez-Guerrero,
+    Andrés Marín López, and Daniel Díaz Sánchez. “SuSSo: Seamless and Ubiquitous Single
+    Sign-on for Cloud Service Continuity across Devices.” <i>{IEEE} Trans. Consumer
+    Electron.</i> 58, no. 4 (2012): 1425–33. <a href="https://doi.org/10.1109/TCE.2012.6415016">https://doi.org/10.1109/TCE.2012.6415016</a>.'
+  ieee: 'P. Arias Cabarcos, F. Almenárez Mendoza, R. Sánchez-Guerrero, A. Marín López,
+    and D. Díaz Sánchez, “SuSSo: Seamless and ubiquitous single sign-on for cloud
+    service continuity across devices,” <i>{IEEE} Trans. Consumer Electron.</i>, vol.
+    58, no. 4, pp. 1425–1433, 2012, doi: <a href="https://doi.org/10.1109/TCE.2012.6415016">10.1109/TCE.2012.6415016</a>.'
+  mla: 'Arias Cabarcos, Patricia, et al. “SuSSo: Seamless and Ubiquitous Single Sign-on
+    for Cloud Service Continuity across Devices.” <i>{IEEE} Trans. Consumer Electron.</i>,
+    vol. 58, no. 4, 2012, pp. 1425–33, doi:<a href="https://doi.org/10.1109/TCE.2012.6415016">10.1109/TCE.2012.6415016</a>.'
+  short: P. Arias Cabarcos, F. Almenárez Mendoza, R. Sánchez-Guerrero, A. Marín López,
+    D. Díaz Sánchez, {IEEE} Trans. Consumer Electron. 58 (2012) 1425–1433.
+date_created: 2021-12-08T19:14:08Z
+date_updated: 2022-01-27T16:51:27Z
+doi: 10.1109/TCE.2012.6415016
+extern: '1'
+intvolume: '        58'
+issue: '4'
+language:
+- iso: eng
+page: 1425-1433
+publication: '{IEEE} Trans. Consumer Electron.'
+status: public
+title: 'SuSSo: Seamless and ubiquitous single sign-on for cloud service continuity
+  across devices'
+type: journal_article
+user_id: '92804'
+volume: 58
+year: '2012'
+...
+---
+_id: '28494'
+author:
+- first_name: Patricia
+  full_name: Arias Cabarcos, Patricia
+  id: '92804'
+  last_name: Arias Cabarcos
+- first_name: Florina
+  full_name: Almen{\'{a}}rez Mendoza, Florina
+  last_name: Almen{\'{a}}rez Mendoza
+- first_name: Andrés
+  full_name: Marín López, Andrés
+  last_name: Marín López
+- first_name: Daniel
+  full_name: Díaz Sánchez, Daniel
+  last_name: Díaz Sánchez
+- first_name: Rosa
+  full_name: Sánchez-Guerrero, Rosa
+  last_name: Sánchez-Guerrero
+citation:
+  ama: Arias Cabarcos P, Almen{\’{a}}rez Mendoza F, Marín López A, Díaz Sánchez D,
+    Sánchez-Guerrero R. A Metric-Based Approach to Assess Risk for “On Cloud” Federated
+    Identity Management. <i>J Netw Syst Manag</i>. 2012;20(4):513-533. doi:<a href="https://doi.org/10.1007/s10922-012-9244-2">10.1007/s10922-012-9244-2</a>
+  apa: Arias Cabarcos, P., Almen{\’{a}}rez Mendoza, F., Marín López, A., Díaz Sánchez,
+    D., &#38; Sánchez-Guerrero, R. (2012). A Metric-Based Approach to Assess Risk
+    for “On Cloud” Federated Identity Management. <i>J. Netw. Syst. Manag.</i>, <i>20</i>(4),
+    513–533. <a href="https://doi.org/10.1007/s10922-012-9244-2">https://doi.org/10.1007/s10922-012-9244-2</a>
+  bibtex: '@article{Arias Cabarcos_Almen{\’{a}}rez Mendoza_Marín López_Díaz Sánchez_Sánchez-Guerrero_2012,
+    title={A Metric-Based Approach to Assess Risk for “On Cloud” Federated Identity
+    Management}, volume={20}, DOI={<a href="https://doi.org/10.1007/s10922-012-9244-2">10.1007/s10922-012-9244-2</a>},
+    number={4}, journal={J. Netw. Syst. Manag.}, author={Arias Cabarcos, Patricia
+    and Almen{\’{a}}rez Mendoza, Florina and Marín López, Andrés and Díaz Sánchez,
+    Daniel and Sánchez-Guerrero, Rosa}, year={2012}, pages={513–533} }'
+  chicago: 'Arias Cabarcos, Patricia, Florina Almen{\’{a}}rez Mendoza, Andrés Marín
+    López, Daniel Díaz Sánchez, and Rosa Sánchez-Guerrero. “A Metric-Based Approach
+    to Assess Risk for ‘On Cloud’ Federated Identity Management.” <i>J. Netw. Syst.
+    Manag.</i> 20, no. 4 (2012): 513–33. <a href="https://doi.org/10.1007/s10922-012-9244-2">https://doi.org/10.1007/s10922-012-9244-2</a>.'
+  ieee: 'P. Arias Cabarcos, F. Almen{\’{a}}rez Mendoza, A. Marín López, D. Díaz Sánchez,
+    and R. Sánchez-Guerrero, “A Metric-Based Approach to Assess Risk for ‘On Cloud’
+    Federated Identity Management,” <i>J. Netw. Syst. Manag.</i>, vol. 20, no. 4,
+    pp. 513–533, 2012, doi: <a href="https://doi.org/10.1007/s10922-012-9244-2">10.1007/s10922-012-9244-2</a>.'
+  mla: Arias Cabarcos, Patricia, et al. “A Metric-Based Approach to Assess Risk for
+    ‘On Cloud’ Federated Identity Management.” <i>J. Netw. Syst. Manag.</i>, vol.
+    20, no. 4, 2012, pp. 513–33, doi:<a href="https://doi.org/10.1007/s10922-012-9244-2">10.1007/s10922-012-9244-2</a>.
+  short: P. Arias Cabarcos, F. Almen{\’{a}}rez Mendoza, A. Marín López, D. Díaz Sánchez,
+    R. Sánchez-Guerrero, J. Netw. Syst. Manag. 20 (2012) 513–533.
+date_created: 2021-12-08T19:14:04Z
+date_updated: 2022-01-27T16:49:36Z
+doi: 10.1007/s10922-012-9244-2
+extern: '1'
+intvolume: '        20'
+issue: '4'
+language:
+- iso: eng
+page: 513-533
+publication: J. Netw. Syst. Manag.
+status: public
+title: A Metric-Based Approach to Assess Risk for "On Cloud" Federated Identity Management
+type: journal_article
+user_id: '92804'
+volume: 20
+year: '2012'
+...
+---
+_id: '28496'
+author:
+- first_name: Rosa
+  full_name: Sánchez-Guerrero, Rosa
+  last_name: Sánchez-Guerrero
+- first_name: Florina
+  full_name: Almenárez, Florina
+  last_name: Almenárez
+- first_name: Patricia
+  full_name: Arias Cabarcos, Patricia
+  id: '92804'
+  last_name: Arias Cabarcos
+- first_name: Daniel
+  full_name: Díaz Sánchez, Daniel
+  last_name: Díaz Sánchez
+- first_name: Andrés
+  full_name: Marín, Andrés
+  last_name: Marín
+citation:
+  ama: Sánchez-Guerrero R, Almenárez F, Arias Cabarcos P, Díaz Sánchez D, Marín A.
+    Enhancing privacy and dynamic federation in IdM for consumer cloud computing.
+    <i>{IEEE} Trans Consumer Electron</i>. 2012;58(1):95-103. doi:<a href="https://doi.org/10.1109/TCE.2012.6170060">10.1109/TCE.2012.6170060</a>
+  apa: Sánchez-Guerrero, R., Almenárez, F., Arias Cabarcos, P., Díaz Sánchez, D.,
+    &#38; Marín, A. (2012). Enhancing privacy and dynamic federation in IdM for consumer
+    cloud computing. <i>{IEEE} Trans. Consumer Electron.</i>, <i>58</i>(1), 95–103.
+    <a href="https://doi.org/10.1109/TCE.2012.6170060">https://doi.org/10.1109/TCE.2012.6170060</a>
+  bibtex: '@article{Sánchez-Guerrero_Almenárez_Arias Cabarcos_Díaz Sánchez_Marín_2012,
+    title={Enhancing privacy and dynamic federation in IdM for consumer cloud computing},
+    volume={58}, DOI={<a href="https://doi.org/10.1109/TCE.2012.6170060">10.1109/TCE.2012.6170060</a>},
+    number={1}, journal={{IEEE} Trans. Consumer Electron.}, author={Sánchez-Guerrero,
+    Rosa and Almenárez, Florina and Arias Cabarcos, Patricia and Díaz Sánchez, Daniel
+    and Marín, Andrés}, year={2012}, pages={95–103} }'
+  chicago: 'Sánchez-Guerrero, Rosa, Florina Almenárez, Patricia Arias Cabarcos, Daniel
+    Díaz Sánchez, and Andrés Marín. “Enhancing Privacy and Dynamic Federation in IdM
+    for Consumer Cloud Computing.” <i>{IEEE} Trans. Consumer Electron.</i> 58, no.
+    1 (2012): 95–103. <a href="https://doi.org/10.1109/TCE.2012.6170060">https://doi.org/10.1109/TCE.2012.6170060</a>.'
+  ieee: 'R. Sánchez-Guerrero, F. Almenárez, P. Arias Cabarcos, D. Díaz Sánchez, and
+    A. Marín, “Enhancing privacy and dynamic federation in IdM for consumer cloud
+    computing,” <i>{IEEE} Trans. Consumer Electron.</i>, vol. 58, no. 1, pp. 95–103,
+    2012, doi: <a href="https://doi.org/10.1109/TCE.2012.6170060">10.1109/TCE.2012.6170060</a>.'
+  mla: Sánchez-Guerrero, Rosa, et al. “Enhancing Privacy and Dynamic Federation in
+    IdM for Consumer Cloud Computing.” <i>{IEEE} Trans. Consumer Electron.</i>, vol.
+    58, no. 1, 2012, pp. 95–103, doi:<a href="https://doi.org/10.1109/TCE.2012.6170060">10.1109/TCE.2012.6170060</a>.
+  short: R. Sánchez-Guerrero, F. Almenárez, P. Arias Cabarcos, D. Díaz Sánchez, A.
+    Marín, {IEEE} Trans. Consumer Electron. 58 (2012) 95–103.
+date_created: 2021-12-08T19:14:06Z
+date_updated: 2022-01-27T16:50:35Z
+doi: 10.1109/TCE.2012.6170060
+extern: '1'
+intvolume: '        58'
+issue: '1'
+language:
+- iso: eng
+page: 95-103
+publication: '{IEEE} Trans. Consumer Electron.'
+status: public
+title: Enhancing privacy and dynamic federation in IdM for consumer cloud computing
+type: journal_article
+user_id: '92804'
+volume: 58
+year: '2012'
+...
+---
+_id: '28495'
+author:
+- first_name: Rosa
+  full_name: Sánchez-Guerrero, Rosa
+  last_name: Sánchez-Guerrero
+- first_name: Florina
+  full_name: Almenárez, Florina
+  last_name: Almenárez
+- first_name: Daniel
+  full_name: Díaz Sánchez, Daniel
+  last_name: Díaz Sánchez
+- first_name: Andrés
+  full_name: Marín, Andrés
+  last_name: Marín
+- first_name: Patricia
+  full_name: Arias Cabarcos, Patricia
+  id: '92804'
+  last_name: Arias Cabarcos
+- first_name: Fabio
+  full_name: Sanvido, Fabio
+  last_name: Sanvido
+citation:
+  ama: Sánchez-Guerrero R, Almenárez F, Díaz Sánchez D, Marín A, Arias Cabarcos P,
+    Sanvido F. An Event Driven Hybrid Identity Management Approach to Privacy Enhanced
+    e-Health. <i>Sensors</i>. 2012;12(5):6129-6154. doi:<a href="https://doi.org/10.3390/s120506129">10.3390/s120506129</a>
+  apa: Sánchez-Guerrero, R., Almenárez, F., Díaz Sánchez, D., Marín, A., Arias Cabarcos,
+    P., &#38; Sanvido, F. (2012). An Event Driven Hybrid Identity Management Approach
+    to Privacy Enhanced e-Health. <i>Sensors</i>, <i>12</i>(5), 6129–6154. <a href="https://doi.org/10.3390/s120506129">https://doi.org/10.3390/s120506129</a>
+  bibtex: '@article{Sánchez-Guerrero_Almenárez_Díaz Sánchez_Marín_Arias Cabarcos_Sanvido_2012,
+    title={An Event Driven Hybrid Identity Management Approach to Privacy Enhanced
+    e-Health}, volume={12}, DOI={<a href="https://doi.org/10.3390/s120506129">10.3390/s120506129</a>},
+    number={5}, journal={Sensors}, author={Sánchez-Guerrero, Rosa and Almenárez, Florina
+    and Díaz Sánchez, Daniel and Marín, Andrés and Arias Cabarcos, Patricia and Sanvido,
+    Fabio}, year={2012}, pages={6129–6154} }'
+  chicago: 'Sánchez-Guerrero, Rosa, Florina Almenárez, Daniel Díaz Sánchez, Andrés
+    Marín, Patricia Arias Cabarcos, and Fabio Sanvido. “An Event Driven Hybrid Identity
+    Management Approach to Privacy Enhanced E-Health.” <i>Sensors</i> 12, no. 5 (2012):
+    6129–54. <a href="https://doi.org/10.3390/s120506129">https://doi.org/10.3390/s120506129</a>.'
+  ieee: 'R. Sánchez-Guerrero, F. Almenárez, D. Díaz Sánchez, A. Marín, P. Arias Cabarcos,
+    and F. Sanvido, “An Event Driven Hybrid Identity Management Approach to Privacy
+    Enhanced e-Health,” <i>Sensors</i>, vol. 12, no. 5, pp. 6129–6154, 2012, doi:
+    <a href="https://doi.org/10.3390/s120506129">10.3390/s120506129</a>.'
+  mla: Sánchez-Guerrero, Rosa, et al. “An Event Driven Hybrid Identity Management
+    Approach to Privacy Enhanced E-Health.” <i>Sensors</i>, vol. 12, no. 5, 2012,
+    pp. 6129–54, doi:<a href="https://doi.org/10.3390/s120506129">10.3390/s120506129</a>.
+  short: R. Sánchez-Guerrero, F. Almenárez, D. Díaz Sánchez, A. Marín, P. Arias Cabarcos,
+    F. Sanvido, Sensors 12 (2012) 6129–6154.
+date_created: 2021-12-08T19:14:05Z
+date_updated: 2022-01-27T16:49:56Z
+doi: 10.3390/s120506129
+extern: '1'
+intvolume: '        12'
+issue: '5'
+language:
+- iso: eng
+page: 6129-6154
+publication: Sensors
+status: public
+title: An Event Driven Hybrid Identity Management Approach to Privacy Enhanced e-Health
+type: journal_article
+user_id: '92804'
+volume: 12
+year: '2012'
+...
+---
+_id: '28505'
+author:
+- first_name: Patricia
+  full_name: Arias Cabarcos, Patricia
+  id: '92804'
+  last_name: Arias Cabarcos
+- first_name: Rosa
+  full_name: Sánchez Guerrero, Rosa
+  last_name: Sánchez Guerrero
+- first_name: Florina
+  full_name: Almenárez Mendoza, Florina
+  last_name: Almenárez Mendoza
+- first_name: Daniel
+  full_name: Díaz Sánchez, Daniel
+  last_name: Díaz Sánchez
+- first_name: Andr{\'{e}}s
+  full_name: Marín López, Andr{\'{e}}s
+  last_name: Marín López
+citation:
+  ama: 'Arias Cabarcos P, Sánchez Guerrero R, Almenárez Mendoza F, Díaz Sánchez D,
+    Marín López A. FamTV: An architecture for presence-aware personalized television.
+    <i>{IEEE} Trans Consumer Electron</i>. 2011;57(1):6-13. doi:<a href="https://doi.org/10.1109/TCE.2011.5735473">10.1109/TCE.2011.5735473</a>'
+  apa: 'Arias Cabarcos, P., Sánchez Guerrero, R., Almenárez Mendoza, F., Díaz Sánchez,
+    D., &#38; Marín López, A. (2011). FamTV: An architecture for presence-aware personalized
+    television. <i>{IEEE} Trans. Consumer Electron.</i>, <i>57</i>(1), 6–13. <a href="https://doi.org/10.1109/TCE.2011.5735473">https://doi.org/10.1109/TCE.2011.5735473</a>'
+  bibtex: '@article{Arias Cabarcos_Sánchez Guerrero_Almenárez Mendoza_Díaz Sánchez_Marín
+    López_2011, title={FamTV: An architecture for presence-aware personalized television},
+    volume={57}, DOI={<a href="https://doi.org/10.1109/TCE.2011.5735473">10.1109/TCE.2011.5735473</a>},
+    number={1}, journal={{IEEE} Trans. Consumer Electron.}, author={Arias Cabarcos,
+    Patricia and Sánchez Guerrero, Rosa and Almenárez Mendoza, Florina and Díaz Sánchez,
+    Daniel and Marín López, Andr{\’{e}}s}, year={2011}, pages={6–13} }'
+  chicago: 'Arias Cabarcos, Patricia, Rosa Sánchez Guerrero, Florina Almenárez Mendoza,
+    Daniel Díaz Sánchez, and Andr{\’{e}}s Marín López. “FamTV: An Architecture for
+    Presence-Aware Personalized Television.” <i>{IEEE} Trans. Consumer Electron.</i>
+    57, no. 1 (2011): 6–13. <a href="https://doi.org/10.1109/TCE.2011.5735473">https://doi.org/10.1109/TCE.2011.5735473</a>.'
+  ieee: 'P. Arias Cabarcos, R. Sánchez Guerrero, F. Almenárez Mendoza, D. Díaz Sánchez,
+    and A. Marín López, “FamTV: An architecture for presence-aware personalized television,”
+    <i>{IEEE} Trans. Consumer Electron.</i>, vol. 57, no. 1, pp. 6–13, 2011, doi:
+    <a href="https://doi.org/10.1109/TCE.2011.5735473">10.1109/TCE.2011.5735473</a>.'
+  mla: 'Arias Cabarcos, Patricia, et al. “FamTV: An Architecture for Presence-Aware
+    Personalized Television.” <i>{IEEE} Trans. Consumer Electron.</i>, vol. 57, no.
+    1, 2011, pp. 6–13, doi:<a href="https://doi.org/10.1109/TCE.2011.5735473">10.1109/TCE.2011.5735473</a>.'
+  short: P. Arias Cabarcos, R. Sánchez Guerrero, F. Almenárez Mendoza, D. Díaz Sánchez,
+    A. Marín López, {IEEE} Trans. Consumer Electron. 57 (2011) 6–13.
+date_created: 2021-12-08T19:14:18Z
+date_updated: 2022-01-27T16:29:35Z
+doi: 10.1109/TCE.2011.5735473
+extern: '1'
+intvolume: '        57'
+issue: '1'
+language:
+- iso: eng
+page: 6-13
+publication: '{IEEE} Trans. Consumer Electron.'
+status: public
+title: 'FamTV: An architecture for presence-aware personalized television'
+type: journal_article
+user_id: '92804'
+volume: 57
+year: '2011'
+...
