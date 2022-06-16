@@ -5,7 +5,7 @@ description : "This is meta description"
 type: post
 #author: Pritilata Saha
 tags: ["test"] 
-draft: true
+draft: false
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas sit expedita, iusto repellendus cumque, officia architecto consequatur illo fuga eum sed ut autem eos voluptas. Nemo, a, rem! Atque quisquam aperiam eaque tenetur autem, soluta itaque omnis. 
 
