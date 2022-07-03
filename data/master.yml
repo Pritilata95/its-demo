@@ -1,14 +1,48 @@
 enable: true
 title: Our Master courses
-subtitle: subtile here
+subtitle: 
 courseitem: 
-  - coursename: The Course Name Here
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. The course description,
+  - coursename: Privacy and Technology 
+    otherinfo: Winter 2022/23 
+    id: one 
+    description: This course will provide students with a basic understanding of privacy risks,
+      the most common technologies to tackle them and the human factors shaping their design. 
+      The course will analyze the adversary models and evaluation metrics underlying the design 
+      of privacy-enhancing technologies.
     coursecontent:
-      - item: item1
-      - item: item2
-  - coursename: The Course Name Here
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      - item: Motivation
+      - item: Privacy metrics and adversary models
+      - item: Anonymous communications
+      - item: Data-perturbative privacy-enhancing technologies
+      - item: Anonymization algorithms for databases
+      - item: Homomorphic encryption and zero knowledge proofs
+      - item: Selective disclosure for identity management
+      - item: Usable privacy
+      - item: Applying privacy principles and case studies
+  - coursename: Usable Security and Privacy
+    otherinfo: Summer 2022
+    id: two 
+    description:  Students will gain practical, research-oriented knowledge about usable security
+     and privacy- 1) from the technical side, by programming an application for usable security, 
+     or 2) from the human behavior research side, through the design and pretest of a user study. 
     coursecontent:
-      - item: item1
-      -  item: item2
+      - item: Students will gain an appreciation for the importance of usable security and privacy
+      - item: Students will learn about the history of the field and main research areas and challenges
+      - item: Students will are able to apply methodologies to conduct user research in security and privacy
+  - coursename: Privacy Enhancing Technologies
+    otherinfo: Winter 2021/22
+    id: three
+    description: This course will provide students with a basic understanding of privacy risks,
+      the most common technologies to tackle them and the human factors shaping their design. 
+      The course will analyze the adversary models and evaluation metrics underlying the design 
+      of privacy-enhancing technologies.
+    coursecontent:
+      - item: Motivation
+      - item: Privacy metrics and adversary models
+      - item: Anonymous communications
+      - item: Data-perturbative privacy-enhancing technologies
+      - item: Anonymization algorithms for databases
+      - item: Homomorphic encryption and zero knowledge proofs
+      - item: Selective disclosure for identity management
+      - item: Usable privacy
+      - item: Applying privacy principles and case studies

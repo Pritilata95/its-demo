@@ -17,15 +17,28 @@
 					<div class="row service-parts">
 						{{ range .Site.Data.master.courseitem }}  
 						<div class="courses">
-							<h4>{{ .coursename }}</h4> 						
+							<h4>{{ .coursename }}</h4>
+							<h6 style="color:rgb(175, 174, 174);font-weight: 200;">{{ .otherinfo}}</h6>		
 							<h5> Content </h5>
-							<p >{{ .description }}</p>
-							<h5> Lecture structure </h5>
-							{{ range .coursecontent }} 
-							<ul>
-								<li>&#9900; {{ .item }}</li>
-							</ul> 								
-							{{ end}} 
+							<p >{{ .description | safeHTML }}</p>
+							<h5>
+								Lecture structure
+								<button class="btn btn-light" type="button" data-toggle="collapse" data-target="#{{ .id }}" 
+								aria-expanded="false" aria-controls="{{ .id }}" style="color:rgb(175, 174, 174);">
+									&#9662
+								</button>
+							</h5>
+							<div class="collapse" id="{{ .id }}">
+								<div class="card card-body">
+								  <div class="container">
+									{{ range .coursecontent }} 
+									<ul>
+								  <li>&#9900 {{ .item | safeHTML }}</li>
+									</ul> 								
+								   {{ end}} 
+								  </div>
+								</div>
+							</div>
 						</div>
 						{{ end }}
 					</div>

@@ -2,14 +2,20 @@ enable: true
 title: Our Bachelor courses
 subtitle: subtile here 
 courseitem: 
-  - coursename: The Course Name Here
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. The course description,
-    coursecontent:
-      - item: item1
-      - item: item2
-  - coursename: The Course Name Here
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    coursecontent:
-      - item: item1
-      -  item: item2
+  - coursename: Practical Usable Security and Privacy
+    otherinfo: Winter 2021/22
+    id: one
+    description: Students taking this lecture will gain practical knowledge about usable security and privacy-<br>
+      <br>&nbsp&nbsp&nbsp&nbsp 1) from the technical side, by programming an application for usable security, or 
+      <br>&nbsp&nbsp&nbsp&nbsp 2) from the human behavior research side, through the design and pretest of 
+      a user study.
+      <br><br>Students will work alone or in small teams to develop an usable security concept with dedicated 
+      mentorship along the way. At the end, they will submit a technical report or paper and present their 
+      application or study design and preliminary results in a conference-style format.
+    coursecontent: 
+    - item: Programming Track Topics- <br> &nbsp&nbsp&nbsp&nbsp•&nbsp
+        Visualization app to explore Facebook behavioural data collection
+    - item: User Study Track Topics- <br> &nbsp&nbsp&nbsp&nbsp•&nbsp       
+        Neurotechnologies, Neuroprivacy, and User Acceptance <br> &nbsp&nbsp&nbsp&nbsp•&nbsp
+        Exploring users ability to opt-out from FB data collection practices
 
