@@ -18,7 +18,11 @@ courseItem :
     url:    seminar
     description: >
        Here you can find the seminars we offer for summer and winter semesters.
-
+  - icon  : ion-ios-paper-outline
+    title : Projects
+    url:    project
+    description: >
+      Here you can find the bachelor courses we offer for summer and winter semesters
   - icon  : ion-ios-paper-outline
     title : Theses
     url:    theses

@@ -20,6 +20,14 @@ members  :
     description :  Here goes short description.
     upb     : https://www.uni-paderborn.de/en/person/36679
 
+  - name  : Emiram Kablo
+    image : images/team/team.jpg
+    designation : Research Associate 
+    description :  Here goes short description.
+    #github  : https://www.github.com
+    #scholar : https://scholar.google.com/citations?user=7CWGYEkAAAAJ
+    upb     : https://www.uni-paderborn.de/en/person/46433
+
   - name  : Matin Fallahi
     image : images/team/team.jpg
     designation : Researcher - PhD Student
@@ -32,6 +40,7 @@ members  :
     designation : Student Researcher 
     description :  Here goes short description.
     #github  : https://www.github.com
-    scholar : https://scholar.google.com/citations?user=7CWGYEkAAAAJ
+    #scholar : https://scholar.google.com/citations?user=7CWGYEkAAAAJ
     upb     : https://www.uni-paderborn.de/en/person/87595
+  
  

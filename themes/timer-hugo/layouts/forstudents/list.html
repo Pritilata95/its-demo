@@ -40,12 +40,12 @@
 					<div class="block">
 						<div class="row service-parts">
 							{{ range .Site.Data.forstudents.courseItem }}
-							<div class="col-md-3 col-sm-6"> 
+							<div class="col-md-4 col-sm-6"> 
 							<figure class="block wow fadeInUp animated " data-wow-duration="400ms" data-wow-delay="600ms">  	 
 								{{ with .icon }}<i class="{{ . }}"></i>{{ end }}								
 								<figcaption>
 									<h4 style="color: #02bdd5;"> 
-											<a href="/forstudents/{{ .url}}">{{ .title }} 
+											<a href="/forstudents/{{ .url}}">{{ .title }} </a>
 									</h4>
 									<p>
 										{{ .description }}
@@ -70,12 +70,7 @@
 	</div>
 </section>
 {{ "<!-- Service Section End -->" | safeHTML }}
-{{ end }}
+{{ end }} 
 
 {{ partial "portfolio.html" . }}
-
-<!--{{ partial "clients.html" . }}
-
-{{ partial "cta.html" . }}-->
-
 {{ end }}
